@@ -1,0 +1,2039 @@
+[m [35m50614[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m [22;1;38:2:0:104:0m2.9k[22;39m      [22;1;32m8.2k[22;39m root root   -     ?                [38:2:139:236:255m2024-04-10 14:12[39m [34m ]8;;file:///etc/security\[22;1msecurity
+[m]8;;\ [35m55879[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m [22;1;38:2:0:104:0m2.3k[22;39m      [22;1;32m8.2k[22;39m root root   -     ?                [38:2:140:236:255m2024-04-11 11:31[39m [34m ]8;;file:///etc/uefi\[22;1muefi
+[m]8;;\ [35m76189[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m  [22;1;38:2:0:104:0m56k[22;39m       [22;1;32m70k[22;39m root root   -     ?                [38:2:140:237:255m2024-04-13 02:14[39m [34m ]8;;file:///etc/YaST2\[22;1mYaST2
+[m]8;;\ [35m76192[39m [36ml[22;1;33mr[31mw[32mx[22;33mr[31mw[32mx[33mr[31mw[32mx[39m      [22;1;31m1[22;39m    [22;1;90m-[22;39m         [22;1;90m-[22;39m root root   -     ?                [38:2:140:237:255m2024-04-13 02:14[39m [36m ]8;;file:///usr/lib/os-release\os-release]8;;\[39m [22;1;90m->[22;39m [36m../usr/lib/[39mos-release
+[m[35m378604[39m .[22;1;33mr[31mw[90m-[22;33mr[22;1;90m--[22;33mr[22;1;90m--[22;39m      [22;1;31m1[22;39m   [38:2:0:104:0m58[39m      [22;1;32m4.1k[22;39m root root   -     ?                [38:2:140:237:255m2024-04-13 02:14[39m  ]8;;file:///etc/issue.net\issue.net
+[m]8;;\[35m333348[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m [22;1;38:2:0:104:0m1.1k[22;39m      [22;1;32m4.1k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 10:43[39m [34m ]8;;file:///etc/hp\[22;1mhp
+[m]8;;\[35m350375[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m   [38:2:0:104:0m51[39m      [22;1;32m4.1k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 11:39[39m [34m ]8;;file:///etc/containerd\[22;1mcontainerd
+[m]8;;\[35m177055[39m .[22;1;33mr[31mw[90m-[22;33mr[22;1;90m--[22;33mr[22;1;90m--[22;39m      [22;1;31m1[22;39m   [38:2:0:104:0m48[39m      [22;1;32m4.1k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 11:39[39m  ]8;;file:///etc/subuid\subuid
+[m]8;;\[35m177057[39m .[22;1;33mr[31mw[90m-[22;33mr[22;1;90m--[22;33mr[22;1;90m--[22;39m      [22;1;31m1[22;39m   [38:2:0:104:0m48[39m      [22;1;32m4.1k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 11:39[39m  ]8;;file:///etc/subgid\subgid
+[m]8;;\[35m350389[39m .[22;1;33mr[31mw[90m-[22;33mr[22;1;90m--[22;33mr[22;1;90m--[22;39m      [22;1;31m1[22;39m  [38:2:0:104:0m832[39m      [22;1;32m4.1k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 11:39[39m  ]8;;file:///etc/group\group
+[m]8;;\[35m350390[39m .[22;1;33mr[31mw[90m-[22;33mr[22;1;90m--[22;33mr[22;1;90m--[22;39m      [22;1;31m1[22;39m [22;1;38:2:0:104:0m2.1k[22;39m      [22;1;32m4.1k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 11:39[39m  ]8;;file:///etc/passwd\passwd
+[m]8;;\[35m350391[39m .[22;1;33mr[31mw[90m-[22;33mr[22;1;90m-----[22;39m      [22;1;31m1[22;39m  [38:2:0:104:0m938[39m      [22;1;32m4.1k[22;39m root shadow -     ?                [38:2:142:239:255m2024-04-15 11:39[39m  ]8;;file:///etc/shadow\shadow
+[m]8;;\[35m350396[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m  [38:2:0:104:0m119[39m      [22;1;32m4.1k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 11:39[39m [34m ]8;;file:///etc/docker\[22;1mdocker
+[m]8;;\ [35m28616[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m [22;1;38:2:0:104:0m8.2k[22;39m       [22;1;32m29k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 11:55[39m [34m ]8;;file:///etc/default\[22;1mdefault
+[m]8;;\   [35m282[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m [22;1;38:2:0:104:0m121k[22;39m      [22;1;32m254k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 11:55[39m [34m ]8;;file:///etc/sysconfig\[22;1msysconfig
+[m]8;;\ [35m76193[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m [22;1;38:2:0:104:0m2.3k[22;39m      [22;1;32m8.2k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 11:55[39m [34m ]8;;file:///etc/products.d\[22;1mproducts.d
+[m]8;;\ [35m60565[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m  [22;1;38:2:0:104:0m13k[22;39m       [22;1;32m78k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 11:56[39m [34m󰢬 ]8;;file:///etc/pam.d\[22;1mpam.d
+[m]8;;\ [35m25028[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m [22;1;38:2:0:104:0m124k[22;39m      [22;1;32m291k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 12:22[39m [34m ]8;;file:///etc/xdg\[22;1mxdg
+[m]8;;\ [35m80572[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m [22;1;38:2:0:105:0m369k[22;39m      [22;1;32m414k[22;39m root lp     -     ?                [38:2:142:239:255m2024-04-15 13:52[39m [34m ]8;;file:///etc/cups\[22;1mcups
+[m]8;;\ [35m29358[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m [22;1;38:2:0:104:0m2.4k[22;39m      [22;1;32m328k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 13:58[39m [34m ]8;;file:///etc/alternatives\[22;1malternatives
+[m]8;;\[35m391069[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m  [38:2:0:104:0m259[39m      [22;1;32m4.1k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 13:58[39m [34m ]8;;file:///etc/nvim\[22;1mnvim
+[m]8;;\[35m393030[39m .[22;1;33mr[31mw[90m-[22;33mr[22;1;90m--[22;33mr[22;1;90m--[22;39m      [22;1;31m1[22;39m  [22;1;38:2:0:104:0m96k[22;39m       [22;1;32m98k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 13:59[39m  ]8;;file:///etc/ld.so.cache\ld.so.cache
+[m]8;;\[35m157045[39m [22;1;34md[33mr[31mw[32mx[22;33mr[22;1;90m-[22;32mx[33mr[22;1;90m-[22;32mx[39m      [22;1;31m1[22;39m   [38:2:0:104:0m99[39m      [22;1;32m4.1k[22;39m root root   -     ?                [38:2:142:239:255m2024-04-15 14:11[39m [34m ]8;;file:///etc/sddm.conf.d\[22;1msddm.conf.d
+[m]8;;\[35m393035[39m .[22;1;33mr[31mw[90m-[22;33mr[22;1;90m--[22;33mr[22;1;90m--[22;39m      [22;1;31m1[22;39m    [38:2:0:104:0m0[39m         [32m0[39m root root   -     ?                [38:2:142:239:255m2024-04-15 14:11[39m  ]8;;file:///etc/sddm.conf\sddm.conf
+[m]133;A\
+
+[m]8;;\[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:19 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mfd[39m [36mTheme
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:20 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mrg[39m [36mTheme
+[m]133;C\rg: ./keys: Permission denied (os error 13)
+[mrg: shadow: Permission denied (os error 13)
+[mrg: shadow-: Permission denied (os error 13)
+[mrg: NetworkManager/system-connections/ffurqon71.nmconnection: Permission denied (os error 13)
+[m[35msddm.conf.d/kde_settings.conf
+[m[32m1[39m:[[22;1;31mTheme[22;39m]
+[m[32m2[39m:Cursor[22;1;31mTheme[22;39m=Catppuccin-Mocha-Blue-Cursors
+[mrg: NetworkManager/system-connections/Hello-a69656c7-5a16-45f1-bf7c-fe7549a8256c.nmconnection: Permission denied (os error 13)
+[mrg: NetworkManager/system-connections/Hello.nmconnection: Permission denied (os error 13)
+[mrg: ./credstore.encrypted: Permission denied (os error 13)
+[mrg: ./credstore: Permission denied (os error 13)
+[mrg: iscsi/iscsid.conf: Permission denied (os error 13)
+[mrg: default/useradd: Permission denied (os error 13)
+[mrg: default/useradd-: Permission denied (os error 13)
+[mrg: multipath/bindings: Permission denied (os error 13)
+[mrg: sasl2/smtpd.conf: Permission denied (os error 13)
+[mrg: ./sudoers.d: Permission denied (os error 13)
+
+[m[35micewm/prefoverride
+[m[32m218[39m:# Icon[22;1;31mTheme[22;39ms="*:-HighContrast"
+[m[32m586[39m:#  Minimal number of themes after which the [22;1;31mTheme[22;39ms menu becomes nested (0=disabled)
+[m[32m587[39m:# Nested[22;1;31mTheme[22;39mMenuMinNumber=21 # [0-1234]
+[m[32m770[39m:# Show[22;1;31mTheme[22;39msMenu=1 # 0/1
+[m[32m992[39m:# Themable preferences. [22;1;31mTheme[22;39ms will override these.
+[m[32m1413[39m:#  [22;1;31mTheme[22;39m author, e-mail address, credits.
+[m[32m1414[39m:# [22;1;31mTheme[22;39mAuthor=""
+[m[32m1417[39m:# [22;1;31mTheme[22;39mDescription=""
+[mrg: ./ppp: Permission denied (os error 13)
+[mrg: sysconfig/network/ifcfg-lo: Permission denied (os error 13)
+[mrg: ssh/ssh_host_rsa_key: Permission denied (os error 13)
+[mrg: ssh/ssh_host_ed25519_key: Permission denied (os error 13)
+
+[m[35mxdg/plasmarc
+[m[32m4[39m:[[22;1;31mTheme[22;39m]
+[mrg: ssh/ssh_host_ecdsa_key: Permission denied (os error 13)
+
+[m[35mxdg/kscreenlockerrc
+[m[32m2[39m:[22;1;31mTheme[22;39m=org.openSUSE.desktop
+
+[m[35mxdg/kdeglobals
+[m[32m10[39m:[22;1;31mTheme[22;39m=breeze
+[mrg: fwupd/fwupd.conf: Permission denied (os error 13)
+[mrg: libaudit.conf: Permission denied (os error 13)
+[mrg: wpa_supplicant/wpa_supplicant.conf: Permission denied (os error 13)
+[mrg: crontab: Permission denied (os error 13)
+[mrg: cron.deny: Permission denied (os error 13)
+[mrg: mysqlaccess.conf: Permission denied (os error 13)
+[mrg: ./audit: Permission denied (os error 13)
+[mrg: cups/subscriptions.conf: Permission denied (os error 13)
+[mrg: cups/subscriptions.conf.O: Permission denied (os error 13)
+[mrg: cups/printers.conf: Permission denied (os error 13)
+[mrg: cups/snmp.conf.default: Permission denied (os error 13)
+[mrg: cups/snmp.conf: Permission denied (os error 13)
+[mrg: cups/cupsd.conf.default: Permission denied (os error 13)
+[mrg: cups/cupsd.conf: Permission denied (os error 13)
+[mrg: cups/cups-files.conf.default: Permission denied (os error 13)
+[mrg: cups/cups-files.conf: Permission denied (os error 13)
+[mrg: ./ssl/private: Permission denied (os error 13)
+[mrg: ./cups/ssl: Permission denied (os error 13)
+[mrg: postfix/sasl_passwd: Permission denied (os error 13)
+[mrg: ./polkit-1/rules.d: Permission denied (os error 13)
+[mrg: cups/ppd/epsonl120series.ppd: Permission denied (os error 13)
+[mrg: cups/ppd/epsonl120series.ppd.O: Permission denied (os error 13)
+[mrg: snmp/snmpd.conf: Permission denied (os error 13)
+[mrg: ./firewalld: Permission denied (os error 13)
+[mrg: ./lvm/cache: Permission denied (os error 13)
+[mrg: ./lvm/backup: Permission denied (os error 13)
+[mrg: ./lvm/archive: Permission denied (os error 13)
+[mrg: autofs_ldap_auth.conf: Permission denied (os error 13)
+
+[m[35mapparmor.d/abstractions/ubuntu-browsers.d/ubuntu-integration
+[m[32m24[39m:  # [22;1;31mTheme[22;39ms
+
+[m[35mapparmor.d/abstractions/kde
+[m[32m47[39m:owner @{HOME}/.config/kdedefaults/kdeglobals r, # QPlatform[22;1;31mTheme[22;39mFactory::create() -> KDEPlasmaPlatform[22;1;31mTheme[22;39m.so
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:20 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mrg[39m [33m"Theme"
+[m]133;C\rg: ./ppp: Permission denied (os error 13)
+[mrg: default/useradd: Permission denied (os error 13)
+[mrg: default/useradd-: Permission denied (os error 13)
+[mrg: shadow: Permission denied (os error 13)
+[mrg: shadow-: Permission denied (os error 13)
+[mrg: sasl2/smtpd.conf: Permission denied (os error 13)
+[mrg: ./sudoers.d: Permission denied (os error 13)
+[mrg: cups/subscriptions.conf: Permission denied (os error 13)
+[mrg: cups/subscriptions.conf.O: Permission denied (os error 13)
+[mrg: cups/printers.conf: Permission denied (os error 13)
+[mrg: ./audit: Permission denied (os error 13)
+[mrg: cups/snmp.conf.default: Permission denied (os error 13)
+[mrg: cups/snmp.conf: Permission denied (os error 13)
+[mrg: cups/cupsd.conf.default: Permission denied (os error 13)
+[mrg: cups/cupsd.conf: Permission denied (os error 13)
+[mrg: cups/cups-files.conf.default: Permission denied (os error 13)
+[mrg: ssh/ssh_host_rsa_key: Permission denied (os error 13)
+[mrg: cups/cups-files.conf: Permission denied (os error 13)
+[mrg: postfix/sasl_passwd: Permission denied (os error 13)
+[mrg: ssh/ssh_host_ed25519_key: Permission denied (os error 13)
+[mrg: ./cups/ssl: Permission denied (os error 13)
+[mrg: ssh/ssh_host_ecdsa_key: Permission denied (os error 13)
+[mrg: fwupd/fwupd.conf: Permission denied (os error 13)
+[mrg: cups/ppd/epsonl120series.ppd: Permission denied (os error 13)
+[mrg: cups/ppd/epsonl120series.ppd.O: Permission denied (os error 13)
+[mrg: ./credstore.encrypted: Permission denied (os error 13)
+[mrg: iscsi/iscsid.conf: Permission denied (os error 13)
+[mrg: ./credstore: Permission denied (os error 13)
+[m[35micewm/prefoverride
+[m[32m218[39m:# Icon[22;1;31mTheme[22;39ms="*:-HighContrast"
+[m[32m586[39m:#  Minimal number of themes after which the [22;1;31mTheme[22;39ms menu becomes nested (0=disabled)
+[m[32m587[39m:# Nested[22;1;31mTheme[22;39mMenuMinNumber=21 # [0-1234]
+[m[32m770[39m:# Show[22;1;31mTheme[22;39msMenu=1 # 0/1
+[m[32m992[39m:# Themable preferences. [22;1;31mTheme[22;39ms will override these.
+[m[32m1413[39m:#  [22;1;31mTheme[22;39m author, e-mail address, credits.
+[m[32m1414[39m:# [22;1;31mTheme[22;39mAuthor=""
+[m[32m1417[39m:# [22;1;31mTheme[22;39mDescription=""
+[mrg: multipath/bindings: Permission denied (os error 13)
+[mrg: libaudit.conf: Permission denied (os error 13)
+
+[m[35msddm.conf.d/kde_settings.conf
+[m[32m1[39m:[[22;1;31mTheme[22;39m]
+[m[32m2[39m:Cursor[22;1;31mTheme[22;39m=Catppuccin-Mocha-Blue-Cursors
+[mrg: crontab: Permission denied (os error 13)
+[mrg: cron.deny: Permission denied (os error 13)
+
+[m[35mxdg/plasmarc
+[m[32m4[39m:[[22;1;31mTheme[22;39m]
+[mrg: ./polkit-1/rules.d: Permission denied (os error 13)
+
+[m[35mxdg/kscreenlockerrc
+[m[32m2[39m:[22;1;31mTheme[22;39m=org.openSUSE.desktop
+
+[m[35mxdg/kdeglobals
+[m[32m10[39m:[22;1;31mTheme[22;39m=breeze
+[mrg: ./keys: Permission denied (os error 13)
+[mrg: sysconfig/network/ifcfg-lo: Permission denied (os error 13)
+[mrg: ./ssl/private: Permission denied (os error 13)
+[mrg: mysqlaccess.conf: Permission denied (os error 13)
+[mrg: ./lvm/cache: Permission denied (os error 13)
+[mrg: ./lvm/backup: Permission denied (os error 13)
+[mrg: ./lvm/archive: Permission denied (os error 13)
+[mrg: autofs_ldap_auth.conf: Permission denied (os error 13)
+[mrg: snmp/snmpd.conf: Permission denied (os error 13)
+[mrg: wpa_supplicant/wpa_supplicant.conf: Permission denied (os error 13)
+[mrg: NetworkManager/system-connections/ffurqon71.nmconnection: Permission denied (os error 13)
+[mrg: NetworkManager/system-connections/Hello-a69656c7-5a16-45f1-bf7c-fe7549a8256c.nmconnection: Permission denied (os error 13)
+[mrg: ./firewalld: Permission denied (os error 13)
+[mrg: NetworkManager/system-connections/Hello.nmconnection: Permission denied (os error 13)
+
+[m[35mapparmor.d/abstractions/ubuntu-browsers.d/ubuntu-integration
+[m[32m24[39m:  # [22;1;31mTheme[22;39ms
+
+[m[35mapparmor.d/abstractions/kde
+[m[32m47[39m:owner @{HOME}/.config/kdedefaults/kdeglobals r, # QPlatform[22;1;31mTheme[22;39mFactory::create() -> KDEPlasmaPlatform[22;1;31mTheme[22;39m.so
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:20 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34msudo[39m [36mrg[39m 
+[m]133;C\rg: ripgrep requires at least one pattern to execute a search
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:20 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34msudo[39m [36mrg[39m [33m"Theme"
+[m]133;C\[35micewm/prefoverride
+[m[32m218[39m:# Icon[22;1;31mTheme[22;39ms="*:-HighContrast"
+[m[32m586[39m:#  Minimal number of themes after which the [22;1;31mTheme[22;39ms menu becomes nested (0=disabled)
+[m[32m587[39m:# Nested[22;1;31mTheme[22;39mMenuMinNumber=21 # [0-1234]
+[m[32m770[39m:# Show[22;1;31mTheme[22;39msMenu=1 # 0/1
+[m[32m992[39m:# Themable preferences. [22;1;31mTheme[22;39ms will override these.
+[m[32m1413[39m:#  [22;1;31mTheme[22;39m author, e-mail address, credits.
+[m[32m1414[39m:# [22;1;31mTheme[22;39mAuthor=""
+[m[32m1417[39m:# [22;1;31mTheme[22;39mDescription=""
+
+[m[35mxdg/plasmarc
+[m[32m4[39m:[[22;1;31mTheme[22;39m]
+
+[m[35mxdg/kscreenlockerrc
+[m[32m2[39m:[22;1;31mTheme[22;39m=org.openSUSE.desktop
+
+[m[35mxdg/kdeglobals
+[m[32m10[39m:[22;1;31mTheme[22;39m=breeze
+
+[m[35msddm.conf.d/kde_settings.conf
+[m[32m1[39m:[[22;1;31mTheme[22;39m]
+[m[32m2[39m:Cursor[22;1;31mTheme[22;39m=Catppuccin-Mocha-Blue-Cursors
+
+[m[35mapparmor.d/abstractions/ubuntu-browsers.d/ubuntu-integration
+[m[32m24[39m:  # [22;1;31mTheme[22;39ms
+
+[m[35mapparmor.d/abstractions/kde
+[m[32m47[39m:owner @{HOME}/.config/kdedefaults/kdeglobals r, # QPlatform[22;1;31mTheme[22;39mFactory::create() -> KDEPlasmaPlatform[22;1;31mTheme[22;39m.so
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:20 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mls
+[m]133;C\adjtime                 [22;1;34mcron.hourly[22;39m/      [22;1;34mgeoclue[22;39m/             libao.conf           [22;1;34mnvim[22;39m/              rpc                 [22;1;34msysconfig[22;39m/
+[maliases                 [22;1;34mcron.monthly[22;39m/     [22;1;34mgimp[22;39m/                libaudit.conf        [22;1;34mnvme[22;39m/              [22;1;34mrpm[22;39m/                [22;1;34msysctl.d[22;39m/
+[m[22;1;34maliases.d[22;39m/              crontab           gnome_defaults.conf  [22;1;34mlibblockdev[22;39m/         [22;1;34mopenal[22;39m/            [22;1;34msamba[22;39m/              [22;1;34msystemd[22;39m/
+[maliases.YaST2save       [22;1;34mcron.weekly[22;39m/      [22;1;34mgnupg[22;39m/               [22;1;34mlibnl[22;39m/               [22;1;34mOpenCL[22;39m/            [22;1;34msane.d[22;39m/             [22;1;34msysusers.d[22;39m/
+[m[22;1;34malsa[22;39m/                   [22;1;34mcrypto-policies[22;39m/  [22;1;34mgpm[22;39m/                 [22;1;34mlibssh[22;39m/              [22;1;34mopenconnect[22;39m/       [22;1;34msasl2[22;39m/              [22;1;36mtermcap[22;39m@
+[m[22;1;34malternatives[22;39m/           csh.cshrc         group                locale.conf          [22;1;34mopenldap[22;39m/          screenrc            [22;1;34mterminfo[22;39m/
+[m[22;1;34mapparmor[22;39m/               csh.login         group-               [22;1;36mlocaltime[22;39m@           [22;1;34mopenvpn[22;39m/           sddm.conf           [22;1;34mtigervnc[22;39m/
+[m[22;1;34mapparmor.d[22;39m/             [22;1;34mcups[22;39m/             [22;1;34mgrub.d[22;39m/              [22;1;34mlogin.defs.d[22;39m/        [22;1;34mopt[22;39m/               [22;1;34msddm.conf.d[22;39m/        tlp.conf
+[m[22;1;34maudit[22;39m/                  [22;1;34mcupshelpers[22;39m/      [22;1;34mgtk-2.0[22;39m/             [22;1;34mlogrotate.d[22;39m/         [22;1;36mos-release[22;39m@        [22;1;34msecurity[22;39m/           [22;1;34mtlp.d[22;39m/
+[mautofs.conf             [22;1;34mdbus-1[22;39m/           [22;1;34mgtk-3.0[22;39m/             [22;1;34mlvm[22;39m/                 [22;1;34mPackageKit[22;39m/        [22;1;34mselinux[22;39m/            [22;1;34mtmpfiles.d[22;39m/
+[mautofs_ldap_auth.conf   [22;1;34mdconf[22;39m/            host.conf            machine-id           [22;1;34mpam.d[22;39m/             sensors3.conf       [22;1;34mtuned[22;39m/
+[mauto.master             [22;1;34mdebuginfod[22;39m/       hostname             magic                paperspecs         [22;1;34msensors.d[22;39m/          [22;1;34mudev[22;39m/
+[m[22;1;34mauto.master.d[22;39m/          [22;1;34mdefault[22;39m/          hosts                manpath.config       passwd             [22;1;34msgml[22;39m/               [22;1;34mudisks2[22;39m/
+[mauto.misc               [22;1;34mdepmod.d[22;39m/         [22;1;32mhosts.allow[22;39m*         [22;1;34mmcelog[22;39m/              passwd-            shadow              [22;1;34muefi[22;39m/
+[m[22;1;32mauto.net[22;39m*               dnsmasq.conf      [22;1;32mhosts.deny[22;39m*          mime.types           [22;1;34mpermissions.d[22;39m/     shadow-             [22;1;34mUPower[22;39m/
+[m[22;1;32mauto.smb[22;39m*               [22;1;34mdnsmasq.d[22;39m/        [22;1;34mhp[22;39m/                  mke2fs.conf          permissions.local  shells              usb_modeswitch.conf
+[m[22;1;34mavahi[22;39m/                  [22;1;34mdocker[22;39m/           [22;1;34micewm[22;39m/               [22;1;34mmodprobe.d[22;39m/          [22;1;34mpkcs11[22;39m/            signond.conf        [22;1;34mvbox[22;39m/
+[mbash.bashrc             dracut.conf       idmapd.conf          [22;1;34mmodules-load.d[22;39m/      [22;1;34mpkgconfig[22;39m/         [22;1;34mskel[22;39m/               vconsole.conf
+[mbash_command_not_found  [22;1;34mdracut.conf.d[22;39m/    [22;1;34mImageMagick-7[22;39m/       [22;1;34mmotd.d[22;39m/              [22;1;34mpki[22;39m/               slp.conf            [22;1;34mvnc[22;39m/
+[m[22;1;34mbash_completion.d[22;39m/      ethertypes        inputrc              [22;1;36mmtab[22;39m@                [22;1;34mplymouth[22;39m/          slp.spi             [22;1;34mvulkan[22;39m/
+[mbind.keys               exports           [22;1;34miscsi[22;39m/               mtools.conf          [22;1;34mpolkit-1[22;39m/          smartd.conf         wgetrc
+[mbindresvport.blacklist  [22;1;34mexports.d[22;39m/        [22;1;36missue[22;39m@               [22;1;34mmultipath[22;39m/           [22;1;34mpostfix[22;39m/           smart_drivedb.h     [22;1;34mwicked[22;39m/
+[m[22;1;34mbinfmt.d[22;39m/               [22;1;34mfirewalld[22;39m/        [22;1;34missue.d[22;39m/             my.cnf               [22;1;34mppp[22;39m/               [22;1;34msmartd_warning.d[22;39m/   [22;1;34mwpa_supplicant[22;39m/
+[mblkid.conf              [22;1;34mfish[22;39m/             issue.net            [22;1;34mmy.cnf.d[22;39m/            [22;1;34mpptp.d[22;39m/            [22;1;32msmartd_warning.sh[22;39m*  [22;1;34mX11[22;39m/
+[m[22;1;34mbluetooth[22;39m/              [22;1;34mflatpak[22;39m/          [22;1;34mjava[22;39m/                mysqlaccess.conf     presage.xml        [22;1;34msnapper[22;39m/            xattr.conf
+[m[22;1;34mca-certificates[22;39m/        [22;1;34mfonts[22;39m/            [22;1;34mjvm[22;39m/                 [22;1;34mnamed.d[22;39m/             [22;1;34mproducts.d[22;39m/        [22;1;34msnmp[22;39m/               [22;1;34mxdg[22;39m/
+[m[22;1;34mchromium[22;39m/               fstab             [22;1;34mjvm-common[22;39m/          nanorc               profile            [22;1;34mspeech-dispatcher[22;39m/  [22;1;34mxml[22;39m/
+[m[22;1;34mcifs-utils[22;39m/             fuse3.conf        [22;1;34mkernel[22;39m/              netconfig            [22;1;34mprofile.d[22;39m/         [22;1;34mssh[22;39m/                [22;1;34mxscreensaver[22;39m/
+[m[22;1;34mcontainerd[22;39m/             fuse.conf         [22;1;34mkeys[22;39m/                [22;1;34mNetworkManager[22;39m/      [22;1;34mpulse[22;39m/             [22;1;34mssl[22;39m/                [22;1;34mYaST2[22;39m/
+[m[22;1;34mcredstore[22;39m/              [22;1;34mfwupd[22;39m/            krb5.conf            nfs.conf             pythonstart        subgid              [22;1;36myp.conf[22;39m@
+[m[22;1;34mcredstore.encrypted[22;39m/    [22;1;34mgcrypt[22;39m/           [22;1;34mkrb5.conf.d[22;39m/         nfsmount.conf        [22;1;34mreader.conf.d[22;39m/     subgid-             [22;1;34mzypp[22;39m/
+[m[22;1;34mcron.d[22;39m/                 gdbinit           ld.so.cache          [22;1;34mnftables[22;39m/            request-key.conf   subuid
+[m[22;1;34mcron.daily[22;39m/             [22;1;34mgdbinit.d[22;39m/        ld.so.conf           nilfs_cleanerd.conf  [22;1;34mrequest-key.d[22;39m/     subuid-
+[mcron.deny               gemrc             [22;1;34mld.so.conf.d[22;39m/        nsswitch.conf        [22;1;36mresolv.conf[22;39m@       [22;1;34msudoers.d[22;39m/
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:21 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mcd[39m [36;4msddm.conf
+[m]133;C\cd: 'sddm.conf' is not a directory
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:21 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mmkdir[39m [36;4msddm.conf
+[m]133;C\mkdir: cannot create directory ‘sddm.conf’: File exists
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:22 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mcat[39m [36;4msddm.conf
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:22 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mnano[39m [36;4msddm.conf
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:22 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mrm[39m [36;4msddm.conf[39;24m 
+[m]133;C\rm: remove write-protected regular empty file 'sddm.conf'? 
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:22 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mmkdir[39m [36;4msddm.conf
+[m]133;C\mkdir: cannot create directory ‘sddm.conf’: File exists
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:22 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mls[39m [36;4msddm.conf[39;24m 
+[m]133;C\sddm.conf
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:22 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mfile[39m [36;4msddm.conf
+[m]133;C\sddm.conf: empty
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:22 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m 
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:22 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mls
+[m]133;C\adjtime                 [22;1;34mcron.hourly[22;39m/      [22;1;34mgeoclue[22;39m/             libao.conf           [22;1;34mnvim[22;39m/              rpc                 [22;1;34msysconfig[22;39m/
+[maliases                 [22;1;34mcron.monthly[22;39m/     [22;1;34mgimp[22;39m/                libaudit.conf        [22;1;34mnvme[22;39m/              [22;1;34mrpm[22;39m/                [22;1;34msysctl.d[22;39m/
+[m[22;1;34maliases.d[22;39m/              crontab           gnome_defaults.conf  [22;1;34mlibblockdev[22;39m/         [22;1;34mopenal[22;39m/            [22;1;34msamba[22;39m/              [22;1;34msystemd[22;39m/
+[maliases.YaST2save       [22;1;34mcron.weekly[22;39m/      [22;1;34mgnupg[22;39m/               [22;1;34mlibnl[22;39m/               [22;1;34mOpenCL[22;39m/            [22;1;34msane.d[22;39m/             [22;1;34msysusers.d[22;39m/
+[m[22;1;34malsa[22;39m/                   [22;1;34mcrypto-policies[22;39m/  [22;1;34mgpm[22;39m/                 [22;1;34mlibssh[22;39m/              [22;1;34mopenconnect[22;39m/       [22;1;34msasl2[22;39m/              [22;1;36mtermcap[22;39m@
+[m[22;1;34malternatives[22;39m/           csh.cshrc         group                locale.conf          [22;1;34mopenldap[22;39m/          screenrc            [22;1;34mterminfo[22;39m/
+[m[22;1;34mapparmor[22;39m/               csh.login         group-               [22;1;36mlocaltime[22;39m@           [22;1;34mopenvpn[22;39m/           sddm.conf           [22;1;34mtigervnc[22;39m/
+[m[22;1;34mapparmor.d[22;39m/             [22;1;34mcups[22;39m/             [22;1;34mgrub.d[22;39m/              [22;1;34mlogin.defs.d[22;39m/        [22;1;34mopt[22;39m/               [22;1;34msddm.conf.d[22;39m/        tlp.conf
+[m[22;1;34maudit[22;39m/                  [22;1;34mcupshelpers[22;39m/      [22;1;34mgtk-2.0[22;39m/             [22;1;34mlogrotate.d[22;39m/         [22;1;36mos-release[22;39m@        [22;1;34msecurity[22;39m/           [22;1;34mtlp.d[22;39m/
+[mautofs.conf             [22;1;34mdbus-1[22;39m/           [22;1;34mgtk-3.0[22;39m/             [22;1;34mlvm[22;39m/                 [22;1;34mPackageKit[22;39m/        [22;1;34mselinux[22;39m/            [22;1;34mtmpfiles.d[22;39m/
+[mautofs_ldap_auth.conf   [22;1;34mdconf[22;39m/            host.conf            machine-id           [22;1;34mpam.d[22;39m/             sensors3.conf       [22;1;34mtuned[22;39m/
+[mauto.master             [22;1;34mdebuginfod[22;39m/       hostname             magic                paperspecs         [22;1;34msensors.d[22;39m/          [22;1;34mudev[22;39m/
+[m[22;1;34mauto.master.d[22;39m/          [22;1;34mdefault[22;39m/          hosts                manpath.config       passwd             [22;1;34msgml[22;39m/               [22;1;34mudisks2[22;39m/
+[mauto.misc               [22;1;34mdepmod.d[22;39m/         [22;1;32mhosts.allow[22;39m*         [22;1;34mmcelog[22;39m/              passwd-            shadow              [22;1;34muefi[22;39m/
+[m[22;1;32mauto.net[22;39m*               dnsmasq.conf      [22;1;32mhosts.deny[22;39m*          mime.types           [22;1;34mpermissions.d[22;39m/     shadow-             [22;1;34mUPower[22;39m/
+[m[22;1;32mauto.smb[22;39m*               [22;1;34mdnsmasq.d[22;39m/        [22;1;34mhp[22;39m/                  mke2fs.conf          permissions.local  shells              usb_modeswitch.conf
+[m[22;1;34mavahi[22;39m/                  [22;1;34mdocker[22;39m/           [22;1;34micewm[22;39m/               [22;1;34mmodprobe.d[22;39m/          [22;1;34mpkcs11[22;39m/            signond.conf        [22;1;34mvbox[22;39m/
+[mbash.bashrc             dracut.conf       idmapd.conf          [22;1;34mmodules-load.d[22;39m/      [22;1;34mpkgconfig[22;39m/         [22;1;34mskel[22;39m/               vconsole.conf
+[mbash_command_not_found  [22;1;34mdracut.conf.d[22;39m/    [22;1;34mImageMagick-7[22;39m/       [22;1;34mmotd.d[22;39m/              [22;1;34mpki[22;39m/               slp.conf            [22;1;34mvnc[22;39m/
+[m[22;1;34mbash_completion.d[22;39m/      ethertypes        inputrc              [22;1;36mmtab[22;39m@                [22;1;34mplymouth[22;39m/          slp.spi             [22;1;34mvulkan[22;39m/
+[mbind.keys               exports           [22;1;34miscsi[22;39m/               mtools.conf          [22;1;34mpolkit-1[22;39m/          smartd.conf         wgetrc
+[mbindresvport.blacklist  [22;1;34mexports.d[22;39m/        [22;1;36missue[22;39m@               [22;1;34mmultipath[22;39m/           [22;1;34mpostfix[22;39m/           smart_drivedb.h     [22;1;34mwicked[22;39m/
+[m[22;1;34mbinfmt.d[22;39m/               [22;1;34mfirewalld[22;39m/        [22;1;34missue.d[22;39m/             my.cnf               [22;1;34mppp[22;39m/               [22;1;34msmartd_warning.d[22;39m/   [22;1;34mwpa_supplicant[22;39m/
+[mblkid.conf              [22;1;34mfish[22;39m/             issue.net            [22;1;34mmy.cnf.d[22;39m/            [22;1;34mpptp.d[22;39m/            [22;1;32msmartd_warning.sh[22;39m*  [22;1;34mX11[22;39m/
+[m[22;1;34mbluetooth[22;39m/              [22;1;34mflatpak[22;39m/          [22;1;34mjava[22;39m/                mysqlaccess.conf     presage.xml        [22;1;34msnapper[22;39m/            xattr.conf
+[m[22;1;34mca-certificates[22;39m/        [22;1;34mfonts[22;39m/            [22;1;34mjvm[22;39m/                 [22;1;34mnamed.d[22;39m/             [22;1;34mproducts.d[22;39m/        [22;1;34msnmp[22;39m/               [22;1;34mxdg[22;39m/
+[m[22;1;34mchromium[22;39m/               fstab             [22;1;34mjvm-common[22;39m/          nanorc               profile            [22;1;34mspeech-dispatcher[22;39m/  [22;1;34mxml[22;39m/
+[m[22;1;34mcifs-utils[22;39m/             fuse3.conf        [22;1;34mkernel[22;39m/              netconfig            [22;1;34mprofile.d[22;39m/         [22;1;34mssh[22;39m/                [22;1;34mxscreensaver[22;39m/
+[m[22;1;34mcontainerd[22;39m/             fuse.conf         [22;1;34mkeys[22;39m/                [22;1;34mNetworkManager[22;39m/      [22;1;34mpulse[22;39m/             [22;1;34mssl[22;39m/                [22;1;34mYaST2[22;39m/
+[m[22;1;34mcredstore[22;39m/              [22;1;34mfwupd[22;39m/            krb5.conf            nfs.conf             pythonstart        subgid              [22;1;36myp.conf[22;39m@
+[m[22;1;34mcredstore.encrypted[22;39m/    [22;1;34mgcrypt[22;39m/           [22;1;34mkrb5.conf.d[22;39m/         nfsmount.conf        [22;1;34mreader.conf.d[22;39m/     subgid-             [22;1;34mzypp[22;39m/
+[m[22;1;34mcron.d[22;39m/                 gdbinit           ld.so.cache          [22;1;34mnftables[22;39m/            request-key.conf   subuid
+[m[22;1;34mcron.daily[22;39m/             [22;1;34mgdbinit.d[22;39m/        ld.so.conf           nilfs_cleanerd.conf  [22;1;34mrequest-key.d[22;39m/     subuid-
+[mcron.deny               gemrc             [22;1;34mld.so.conf.d[22;39m/        nsswitch.conf        [22;1;36mresolv.conf[22;39m@       [22;1;34msudoers.d[22;39m/
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:23 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34msudo[39m [36mrm[39m [36;4msddm.conf
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:23 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mls
+[m]133;C\adjtime                 [22;1;34mcron.hourly[22;39m/      [22;1;34mgeoclue[22;39m/             libao.conf           [22;1;34mnvim[22;39m/              rpc                 [22;1;34msysctl.d[22;39m/
+[maliases                 [22;1;34mcron.monthly[22;39m/     [22;1;34mgimp[22;39m/                libaudit.conf        [22;1;34mnvme[22;39m/              [22;1;34mrpm[22;39m/                [22;1;34msystemd[22;39m/
+[m[22;1;34maliases.d[22;39m/              crontab           gnome_defaults.conf  [22;1;34mlibblockdev[22;39m/         [22;1;34mopenal[22;39m/            [22;1;34msamba[22;39m/              [22;1;34msysusers.d[22;39m/
+[maliases.YaST2save       [22;1;34mcron.weekly[22;39m/      [22;1;34mgnupg[22;39m/               [22;1;34mlibnl[22;39m/               [22;1;34mOpenCL[22;39m/            [22;1;34msane.d[22;39m/             [22;1;36mtermcap[22;39m@
+[m[22;1;34malsa[22;39m/                   [22;1;34mcrypto-policies[22;39m/  [22;1;34mgpm[22;39m/                 [22;1;34mlibssh[22;39m/              [22;1;34mopenconnect[22;39m/       [22;1;34msasl2[22;39m/              [22;1;34mterminfo[22;39m/
+[m[22;1;34malternatives[22;39m/           csh.cshrc         group                locale.conf          [22;1;34mopenldap[22;39m/          screenrc            [22;1;34mtigervnc[22;39m/
+[m[22;1;34mapparmor[22;39m/               csh.login         group-               [22;1;36mlocaltime[22;39m@           [22;1;34mopenvpn[22;39m/           [22;1;34msddm.conf.d[22;39m/        tlp.conf
+[m[22;1;34mapparmor.d[22;39m/             [22;1;34mcups[22;39m/             [22;1;34mgrub.d[22;39m/              [22;1;34mlogin.defs.d[22;39m/        [22;1;34mopt[22;39m/               [22;1;34msecurity[22;39m/           [22;1;34mtlp.d[22;39m/
+[m[22;1;34maudit[22;39m/                  [22;1;34mcupshelpers[22;39m/      [22;1;34mgtk-2.0[22;39m/             [22;1;34mlogrotate.d[22;39m/         [22;1;36mos-release[22;39m@        [22;1;34mselinux[22;39m/            [22;1;34mtmpfiles.d[22;39m/
+[mautofs.conf             [22;1;34mdbus-1[22;39m/           [22;1;34mgtk-3.0[22;39m/             [22;1;34mlvm[22;39m/                 [22;1;34mPackageKit[22;39m/        sensors3.conf       [22;1;34mtuned[22;39m/
+[mautofs_ldap_auth.conf   [22;1;34mdconf[22;39m/            host.conf            machine-id           [22;1;34mpam.d[22;39m/             [22;1;34msensors.d[22;39m/          [22;1;34mudev[22;39m/
+[mauto.master             [22;1;34mdebuginfod[22;39m/       hostname             magic                paperspecs         [22;1;34msgml[22;39m/               [22;1;34mudisks2[22;39m/
+[m[22;1;34mauto.master.d[22;39m/          [22;1;34mdefault[22;39m/          hosts                manpath.config       passwd             shadow              [22;1;34muefi[22;39m/
+[mauto.misc               [22;1;34mdepmod.d[22;39m/         [22;1;32mhosts.allow[22;39m*         [22;1;34mmcelog[22;39m/              passwd-            shadow-             [22;1;34mUPower[22;39m/
+[m[22;1;32mauto.net[22;39m*               dnsmasq.conf      [22;1;32mhosts.deny[22;39m*          mime.types           [22;1;34mpermissions.d[22;39m/     shells              usb_modeswitch.conf
+[m[22;1;32mauto.smb[22;39m*               [22;1;34mdnsmasq.d[22;39m/        [22;1;34mhp[22;39m/                  mke2fs.conf          permissions.local  signond.conf        [22;1;34mvbox[22;39m/
+[m[22;1;34mavahi[22;39m/                  [22;1;34mdocker[22;39m/           [22;1;34micewm[22;39m/               [22;1;34mmodprobe.d[22;39m/          [22;1;34mpkcs11[22;39m/            [22;1;34mskel[22;39m/               vconsole.conf
+[mbash.bashrc             dracut.conf       idmapd.conf          [22;1;34mmodules-load.d[22;39m/      [22;1;34mpkgconfig[22;39m/         slp.conf            [22;1;34mvnc[22;39m/
+[mbash_command_not_found  [22;1;34mdracut.conf.d[22;39m/    [22;1;34mImageMagick-7[22;39m/       [22;1;34mmotd.d[22;39m/              [22;1;34mpki[22;39m/               slp.spi             [22;1;34mvulkan[22;39m/
+[m[22;1;34mbash_completion.d[22;39m/      ethertypes        inputrc              [22;1;36mmtab[22;39m@                [22;1;34mplymouth[22;39m/          smartd.conf         wgetrc
+[mbind.keys               exports           [22;1;34miscsi[22;39m/               mtools.conf          [22;1;34mpolkit-1[22;39m/          smart_drivedb.h     [22;1;34mwicked[22;39m/
+[mbindresvport.blacklist  [22;1;34mexports.d[22;39m/        [22;1;36missue[22;39m@               [22;1;34mmultipath[22;39m/           [22;1;34mpostfix[22;39m/           [22;1;34msmartd_warning.d[22;39m/   [22;1;34mwpa_supplicant[22;39m/
+[m[22;1;34mbinfmt.d[22;39m/               [22;1;34mfirewalld[22;39m/        [22;1;34missue.d[22;39m/             my.cnf               [22;1;34mppp[22;39m/               [22;1;32msmartd_warning.sh[22;39m*  [22;1;34mX11[22;39m/
+[mblkid.conf              [22;1;34mfish[22;39m/             issue.net            [22;1;34mmy.cnf.d[22;39m/            [22;1;34mpptp.d[22;39m/            [22;1;34msnapper[22;39m/            xattr.conf
+[m[22;1;34mbluetooth[22;39m/              [22;1;34mflatpak[22;39m/          [22;1;34mjava[22;39m/                mysqlaccess.conf     presage.xml        [22;1;34msnmp[22;39m/               [22;1;34mxdg[22;39m/
+[m[22;1;34mca-certificates[22;39m/        [22;1;34mfonts[22;39m/            [22;1;34mjvm[22;39m/                 [22;1;34mnamed.d[22;39m/             [22;1;34mproducts.d[22;39m/        [22;1;34mspeech-dispatcher[22;39m/  [22;1;34mxml[22;39m/
+[m[22;1;34mchromium[22;39m/               fstab             [22;1;34mjvm-common[22;39m/          nanorc               profile            [22;1;34mssh[22;39m/                [22;1;34mxscreensaver[22;39m/
+[m[22;1;34mcifs-utils[22;39m/             fuse3.conf        [22;1;34mkernel[22;39m/              netconfig            [22;1;34mprofile.d[22;39m/         [22;1;34mssl[22;39m/                [22;1;34mYaST2[22;39m/
+[m[22;1;34mcontainerd[22;39m/             fuse.conf         [22;1;34mkeys[22;39m/                [22;1;34mNetworkManager[22;39m/      [22;1;34mpulse[22;39m/             subgid              [22;1;36myp.conf[22;39m@
+[m[22;1;34mcredstore[22;39m/              [22;1;34mfwupd[22;39m/            krb5.conf            nfs.conf             pythonstart        subgid-             [22;1;34mzypp[22;39m/
+[m[22;1;34mcredstore.encrypted[22;39m/    [22;1;34mgcrypt[22;39m/           [22;1;34mkrb5.conf.d[22;39m/         nfsmount.conf        [22;1;34mreader.conf.d[22;39m/     subuid
+[m[22;1;34mcron.d[22;39m/                 gdbinit           ld.so.cache          [22;1;34mnftables[22;39m/            request-key.conf   subuid-
+[m[22;1;34mcron.daily[22;39m/             [22;1;34mgdbinit.d[22;39m/        ld.so.conf           nilfs_cleanerd.conf  [22;1;34mrequest-key.d[22;39m/     [22;1;34msudoers.d[22;39m/
+[mcron.deny               gemrc             [22;1;34mld.so.conf.d[22;39m/        nsswitch.conf        [22;1;36mresolv.conf[22;39m@       [22;1;34msysconfig[22;39m/
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m /etc [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:118:159:240m   v13.2.1 [38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:23 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mcd[39m [36;4m/usr/share/sddm/themes/
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:24 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mls
+[m]133;C\[22;1;34mbreeze[22;39m/  [22;1;34mbreeze-openSUSE[22;39m/  [22;1;34mcatppuccin-mocha[22;39m/  [22;1;34melarun[22;39m/  [22;1;34mmaldives[22;39m/  [22;1;34mmaya[22;39m/
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:25 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34msudo[39m [36mtouch[39m [36m/etc/sddm.conf
+[m  [34mecho[39m [33m"[Theme]"[39m [32m|[39m [34msudo[39m [36mtee[39m [36m-a[39m [36m/etc/sddm.conf
+[m  [34mecho[39m [33m"Current=catppuccin-mocha"[39m [32m|[39m [34msudo[39m [36mtee[39m [36m-a[39m [36m/etc/sddm.conf[39m  [31m# Replace "mocha" with your preferred flavour
+
+[m]133;C\[Theme]
+[mCurrent=catppuccin-mocha
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:25 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34msudo[39m [36mzypper[39m [36minstall[39m [36mlibQt6Svg6[39m [36mlibQt6QuickControls2[39m [36mlibQt6QuickTemplates2
+
+[m]133;C\Loading repository data...
+[mReading installed packages...
+[m'libQt6Svg6' is already installed.
+[mNo update candidate for 'libQt6Svg6-6.7.0-1.1.x86_64'. The highest available version is already installed.
+[m'libQt6QuickControls2' not found in package names. Trying capabilities.
+[m[31mNo provider of 'libQt6QuickControls2' found.
+[m'libQt6QuickTemplates2' not found in package names. Trying capabilities.
+[m[31mNo provider of 'libQt6QuickTemplates2' found.
+[mResolving package dependencies...
+[mNothing to do.
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:26 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34msudo[39m [36mzypper[39m [36mse[39m [36mqt6[39m [32m|[39m [34mgrep[39m [36m-i[39m [33m"quickcontrols\|quicktemplates"
+
+[m]133;C\i+ | libQt6[22;1;31mQuickControls[22;39m2-6                              | Qt 6 [22;1;31mQuickControls[22;39m2 library                                                    | package
+[mi+ | libQt6[22;1;31mQuickControls[22;39m2Impl6                           | Qt 6 [22;1;31mQuickControls[22;39m2Impl library                                                | package
+[mi+ | libQt6[22;1;31mQuickTemplates[22;39m2-6                             | Qt 6 [22;1;31mQuickTemplates[22;39m2 library                                                   | package
+[m   | qt6-[22;1;31mquickcontrols[22;39m2-devel                            | Qt 6 [22;1;31mQuickControls[22;39m2 library - Development files                                | package
+[m   | qt6-[22;1;31mquickcontrols[22;39m2-private-devel                    | Non-ABI stable API for the Qt 6 [22;1;31mQuickControls[22;39m2 library                         | package
+[m   | qt6-[22;1;31mquickcontrols[22;39m2impl-devel                        | Qt6 [22;1;31mQuickControls[22;39m2Impl library - Development files                             | package
+[m   | qt6-[22;1;31mquickcontrols[22;39m2impl-private-devel                | Non-ABI stable API for the Qt 6 [22;1;31mQuickControls[22;39m2Impl library                     | package
+[m   | qt6-[22;1;31mquickcontrols[22;39mtestutils-devel-static             | Qt6 [22;1;31mQuickControls[22;39mTestUtils static library                                      | package
+[m   | qt6-[22;1;31mquicktemplates[22;39m2-devel                           | Qt6 [22;1;31mQuickTemplates[22;39m2 library - Development files                                | package
+[m   | qt6-[22;1;31mquicktemplates[22;39m2-private-devel                   | Non-ABI stable API for the Qt 6 [22;1;31mQuickTemplates[22;39m2 library                        | package
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:26 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mmkdir[39m [36m-p[39m [33m"[96m$([34mbat[39m [36m--config-dir[96m)[33m/themes"
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:27 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mwget[39m [36m-P[39m [33m"[96m$([34mbat[39m [36m--config-dir[96m)[33m/themes"[39m [36mhttps://github.com/catppuccin/bat/raw/main/themes/Catppuccin%20Latte.tmTheme
+[m  [34mwget[39m [36m-P[39m [33m"[96m$([34mbat[39m [36m--config-dir[96m)[33m/themes"[39m [36mhttps://github.com/catppuccin/bat/raw/main/themes/Catppuccin%20Frappe.tmTheme
+[m  [34mwget[39m [36m-P[39m [33m"[96m$([34mbat[39m [36m--config-dir[96m)[33m/themes"[39m [36mhttps://github.com/catppuccin/bat/raw/main/themes/Catppuccin%20Macchiato.tmTheme
+[m  [34mwget[39m [36m-P[39m [33m"[96m$([34mbat[39m [36m--config-dir[96m)[33m/themes"[39m [36mhttps://github.com/catppuccin/bat/raw/main/themes/Catppuccin%20Mocha.tmTheme
+[m]133;C\--2024-04-15 14:27:04--  https://github.com/catppuccin/bat/raw/main/themes/Catppuccin%20Latte.tmTheme
+[mResolving github.com (github.com)... 20.205.243.166
+[mConnecting to github.com (github.com)|20.205.243.166|:443... connected.
+[mHTTP request sent, awaiting response... 302 Found
+[mLocation: https://raw.githubusercontent.com/catppuccin/bat/main/themes/Catppuccin%20Latte.tmTheme [following]
+[m--2024-04-15 14:27:05--  https://raw.githubusercontent.com/catppuccin/bat/main/themes/Catppuccin%20Latte.tmTheme
+[mResolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.108.133, 185.199.110.133, ...
+[mConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
+[mHTTP request sent, awaiting response... 200 OK
+[mLength: 62656 (61K) [text/plain]
+[mSaving to: ‘/home/afif/.config/bat/themes/Catppuccin Latte.tmTheme’
+
+[mCatppuccin Latte.tmTheme              100%[======================================================================>]  61.19K   218KB/s    in 0.3s    
+
+[m2024-04-15 14:27:06 (218 KB/s) - ‘/home/afif/.config/bat/themes/Catppuccin Latte.tmTheme’ saved [62656/62656]
+
+[m--2024-04-15 14:27:06--  https://github.com/catppuccin/bat/raw/main/themes/Catppuccin%20Frappe.tmTheme
+[mResolving github.com (github.com)... 20.205.243.166
+[mConnecting to github.com (github.com)|20.205.243.166|:443... connected.
+[mHTTP request sent, awaiting response... 302 Found
+[mLocation: https://raw.githubusercontent.com/catppuccin/bat/main/themes/Catppuccin%20Frappe.tmTheme [following]
+[m--2024-04-15 14:27:07--  https://raw.githubusercontent.com/catppuccin/bat/main/themes/Catppuccin%20Frappe.tmTheme
+[mResolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.109.133, 185.199.108.133, ...
+[mConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
+[mHTTP request sent, awaiting response... 200 OK
+[mLength: 62659 (61K) [text/plain]
+[mSaving to: ‘/home/afif/.config/bat/themes/Catppuccin Frappe.tmTheme’
+
+[mCatppuccin Frappe.tmTheme             100%[======================================================================>]  61.19K   251KB/s    in 0.2s    
+
+[m2024-04-15 14:27:08 (251 KB/s) - ‘/home/afif/.config/bat/themes/Catppuccin Frappe.tmTheme’ saved [62659/62659]
+
+[m--2024-04-15 14:27:08--  https://github.com/catppuccin/bat/raw/main/themes/Catppuccin%20Macchiato.tmTheme
+[mResolving github.com (github.com)... 20.205.243.166
+[mConnecting to github.com (github.com)|20.205.243.166|:443... connected.
+[mHTTP request sent, awaiting response... 302 Found
+[mLocation: https://raw.githubusercontent.com/catppuccin/bat/main/themes/Catppuccin%20Macchiato.tmTheme [following]
+[m--2024-04-15 14:27:08--  https://raw.githubusercontent.com/catppuccin/bat/main/themes/Catppuccin%20Macchiato.tmTheme
+[mResolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.111.133, 185.199.109.133, ...
+[mConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+[mHTTP request sent, awaiting response... 200 OK
+[mLength: 62663 (61K) [text/plain]
+[mSaving to: ‘/home/afif/.config/bat/themes/Catppuccin Macchiato.tmTheme’
+
+[mCatppuccin Macchiato.tmTheme          100%[======================================================================>]  61.19K   298KB/s    in 0.2s    
+
+[m2024-04-15 14:27:09 (298 KB/s) - ‘/home/afif/.config/bat/themes/Catppuccin Macchiato.tmTheme’ saved [62663/62663]
+
+[m--2024-04-15 14:27:09--  https://github.com/catppuccin/bat/raw/main/themes/Catppuccin%20Mocha.tmTheme
+[mResolving github.com (github.com)... 20.205.243.166
+[mConnecting to github.com (github.com)|20.205.243.166|:443... connected.
+[mHTTP request sent, awaiting response... 302 Found
+[mLocation: https://raw.githubusercontent.com/catppuccin/bat/main/themes/Catppuccin%20Mocha.tmTheme [following]
+[m--2024-04-15 14:27:10--  https://raw.githubusercontent.com/catppuccin/bat/main/themes/Catppuccin%20Mocha.tmTheme
+[mResolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.110.133, 185.199.111.133, ...
+[mConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+[mHTTP request sent, awaiting response... 200 OK
+[mLength: 62655 (61K) [text/plain]
+[mSaving to: ‘/home/afif/.config/bat/themes/Catppuccin Mocha.tmTheme’
+
+[mCatppuccin Mocha.tmTheme              100%[======================================================================>]  61.19K   224KB/s    in 0.3s    
+
+[m2024-04-15 14:27:11 (224 KB/s) - ‘/home/afif/.config/bat/themes/Catppuccin Mocha.tmTheme’ saved [62655/62655]
+
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:27 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache[39m [36m--build
+[m]133;C\[22;1;31merror:[22;39m unexpected argument '[33m--build[39m' found
+
+[m  [32mtip:[39m to pass '[33m--build[39m' as a value, use '[32m-- --build[39m'
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [22;1m--force-colorization[22m [22;1m--style[22m <components> [22;1m--theme[22m <theme> <FILE>...
+
+[mFor more information, try '[22;1m--help[22m'.
+[m]133;A\[34mbat[39m [36m--list-themes
+[m]133;C\Theme: [22;1m1337
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:27 [38:2:29:34:48;49m 
+[m[38:2:248:248:242m  [38:2:109:109:109m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:251:223:181mfn[38:2:248:248:242m [38:2:140:218:255mprint_square[38:2:248:248:242m([38:2:252:147:84mnum[38:2:248:248:242m: [38:2:251:223:181mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:251:223:181mlet[38:2:248:248:242m result [38:2:255:94:94m=[38:2:248:248:242m [38:2:251:223:181mf64[38:2:248:248:242m::powf(num, [38:2:253:176:130m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:255:255:255m"[38:2:251:227:191mThe square of [38:2:253:176:130m{:.2}[38:2:251:227:191m is [38:2:253:176:130m{:.2}[38:2:251:227:191m.[38:2:255:255:255m"[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mColdark-Cold
+
+[m[38:2:17:27:39m  [38:2:60:82:109m// Output the square of a number.
+[m[38:2:17:27:39m  [38:2:160:73:0mfn[38:2:17:27:39m [38:2:124:0:170mprint_square[38:2:17:27:39m([38:2:0:109:109mnum[38:2:17:27:39m: [38:2:160:73:0mf64[38:2:17:27:39m) {
+[m[38:2:17:27:39m      [38:2:160:73:0mlet[38:2:17:27:39m result [38:2:160:73:0m=[38:2:17:27:39m [38:2:160:73:0mf64[38:2:17:27:39m::powf(num, [38:2:117:95:0m2.0[38:2:17:27:39m);
+[m[38:2:17:27:39m      println!([38:2:17:107:0m"The square of [38:2:0:90:142m{:.2}[38:2:17:107:0m is [38:2:0:90:142m{:.2}[38:2:17:107:0m."[38:2:17:27:39m, num, result);
+[m[38:2:17:27:39m  }
+
+[mTheme: [22;1mColdark-Dark
+
+[m[38:2:227:234:242m  [38:2:141:161:185m// Output the square of a number.
+[m[38:2:227:234:242m  [38:2:233:174:126mfn[38:2:227:234:242m [38:2:198:153:227mprint_square[38:2:227:234:242m([38:2:102:204:204mnum[38:2:227:234:242m: [38:2:233:174:126mf64[38:2:227:234:242m) {
+[m[38:2:227:234:242m      [38:2:233:174:126mlet[38:2:227:234:242m result [38:2:233:174:126m=[38:2:227:234:242m [38:2:233:174:126mf64[38:2:227:234:242m::powf(num, [38:2:230:211:122m2.0[38:2:227:234:242m);
+[m[38:2:227:234:242m      println!([38:2:145:208:118m"The square of [38:2:108:184:230m{:.2}[38:2:145:208:118m is [38:2:108:184:230m{:.2}[38:2:145:208:118m."[38:2:227:234:242m, num, result);
+[m[38:2:227:234:242m  }
+
+[mTheme: [22;1mDarkNeon
+
+[m[38:2:255:255:255m  [38:2:124:124:124m// Output the square of a number.
+[m[38:2:255:255:255m  [38:2:207:203:144mfn[38:2:255:255:255m [38:2:248:248:248mprint_square[38:2:255:255:255m([38:2:198:197:254mnum[38:2:255:255:255m: [38:2:207:203:144mf64[38:2:255:255:255m) {
+[m[38:2:255:255:255m      [38:2:207:203:144mlet[38:2:255:255:255m result [38:2:170:170:170m=[38:2:255:255:255m [38:2:207:203:144mf64[38:2:255:255:255m::powf(num, [22;1;38:2:255:115:253m2.0[22;38:2:255:255:255m);
+[m[38:2:255:255:255m      [38:2:255:255:182mprintln![38:2:255:255:255m([38:2:204:255:102m"The square of [38:2:0:160:160m{:.2}[38:2:204:255:102m is [38:2:0:160:160m{:.2}[38:2:204:255:102m."[38:2:255:255:255m, num, result);
+[m[38:2:255:255:255m  }
+
+[mTheme: [22;1mDracula
+
+[m[38:2:248:248:242m  [38:2:98:114:164m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:139:233:253mfn[38:2:248:248:242m [38:2:80:250:123mprint_square[38:2:248:248:242m([38:2:255:184:108mnum[38:2:248:248:242m: [38:2:139:233:253mf64[38:2:248:248:242m) [38:2:255:255:255m{
+[m[38:2:248:248:242m      [38:2:139:233:253mlet[38:2:248:248:242m result [38:2:255:121:198m=[38:2:248:248:242m [38:2:139:233:253mf64[38:2:255:121:198;4m::[38:2:248:248:242;24mpowf(num, [38:2:189:147:249m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:241:250:140m"The square of [38:2:189:147:249m{:.2}[38:2:241:250:140m is [38:2:189:147:249m{:.2}[38:2:241:250:140m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  [38:2:255:255:255m}
+
+[mTheme: [22;1mGitHub
+
+[m[38:2:51:51:51m  [38:2:150:152:150m// Output the square of a number.
+[m[38:2:51:51:51m  [38:2:167:29:93mfn[38:2:51:51:51m [38:2:121:93:163mprint_square[38:2:51:51:51m([38:2:0:134:179mnum[38:2:51:51:51m: [38:2:167:29:93mf64[38:2:51:51:51m) {
+[m[38:2:51:51:51m      [38:2:167:29:93mlet[38:2:51:51:51m result [38:2:167:29:93m=[38:2:51:51:51m [38:2:167:29:93mf64[38:2:51:51:51m::powf(num, [38:2:0:134:179m2.0[38:2:51:51:51m);
+[m[38:2:51:51:51m      println!([38:2:24:54:145m"The square of [38:2:0:134:179m{:.2}[38:2:24:54:145m is [38:2:0:134:179m{:.2}[38:2:24:54:145m."[38:2:51:51:51m, num, result);
+[m[38:2:51:51:51m  }
+
+[mTheme: [22;1mMonokai Extended
+
+[m[38:2:248:248:242m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:102:217:239mfn[38:2:248:248:242m [38:2:166:226:46mprint_square[38:2:248:248:242m([38:2:253:151:31mnum[38:2:248:248:242m: [38:2:102:217:239mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:102:217:239mlet[38:2:248:248:242m result [38:2:249:38:114m=[38:2:248:248:242m [38:2:102:217:239mf64[38:2:248:248:242m::powf(num, [38:2:190:132:255m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:230:219:116m"The square of [38:2:190:132:255m{:.2}[38:2:230:219:116m is [38:2:190:132:255m{:.2}[38:2:230:219:116m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mMonokai Extended Bright
+
+[m[38:2:248:248:242m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:102:217:239mfn[38:2:248:248:242m [38:2:166:226:46mprint_square[38:2:248:248:242m([38:2:253:151:31mnum[38:2:248:248:242m: [38:2:102:217:239mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:102:217:239mlet[38:2:248:248:242m result [38:2:249:38:114m=[38:2:248:248:242m [38:2:102:217:239mf64[38:2:248:248:242m::powf(num, [38:2:174:129:255m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:230:219:116m"The square of [38:2:174:129:255m{:.2}[38:2:230:219:116m is [38:2:174:129:255m{:.2}[38:2:230:219:116m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mMonokai Extended Light
+
+[m[38:2:73:72:62m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:73:72:62m  [38:2:0:137:179mfn[38:2:73:72:62m [38:2:103:156:0mprint_square[38:2:73:72:62m([38:2:207:112:0mnum[38:2:73:72:62m: [38:2:0:137:179mf64[38:2:73:72:62m) {
+[m[38:2:73:72:62m      [38:2:0:137:179mlet[38:2:73:72:62m result [38:2:249:0:90m=[38:2:73:72:62m [38:2:0:137:179mf64[38:2:73:72:62m::powf(num, [38:2:104:77:153m2.0[38:2:73:72:62m);
+[m[38:2:73:72:62m      println!([38:2:153:143:47m"The square of [38:2:104:77:153m{:.2}[38:2:153:143:47m is [38:2:104:77:153m{:.2}[38:2:153:143:47m."[38:2:73:72:62m, num, result);
+[m[38:2:73:72:62m  }
+
+[mTheme: [22;1mMonokai Extended Origin
+
+[m[38:2:248:248:242m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:102:217:239mfn[38:2:248:248:242m [38:2:166:226:46mprint_square[38:2:248:248:242m([38:2:253:151:31mnum[38:2:248:248:242m: [38:2:102:217:239mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:102:217:239mlet[38:2:248:248:242m result [38:2:249:38:114m=[38:2:248:248:242m [38:2:102:217:239mf64[38:2:248:248:242m::powf(num, [38:2:174:129:255m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:230:219:116m"The square of [38:2:174:129:255m{:.2}[38:2:230:219:116m is [38:2:174:129:255m{:.2}[38:2:230:219:116m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mNord
+
+[m[38:2:216:222:233m  [38:2:97:110:136m// Output the square of a number.
+[m[38:2:216:222:233m  [38:2:129:161:193mfn[38:2:216:222:233m [38:2:136:192:208mprint_square[38:2:216:222:233m(num[38:2:236:239:244m:[38:2:216:222:233m [38:2:129:161:193mf64[38:2:216:222:233m) {
+[m[38:2:216:222:233m      [38:2:129:161:193mlet[38:2:216:222:233m result [38:2:129:161:193m=[38:2:216:222:233m [38:2:129:161:193mf64::[38:2:216:222:233mpowf(num[38:2:236:239:244m,[38:2:216:222:233m [38:2:180:142:173m2.0[38:2:216:222:233m)[38:2:236:239:244m;
+[m[38:2:216:222:233m      println!([38:2:163:190:140m"The square of [38:2:235:203:139m{:.2}[38:2:163:190:140m is [38:2:235:203:139m{:.2}[38:2:163:190:140m."[38:2:236:239:244m,[38:2:216:222:233m num[38:2:236:239:244m,[38:2:216:222:233m result)[38:2:236:239:244m;
+[m[38:2:216:222:233m  }
+
+[mTheme: [22;1mOneHalfDark
+
+[m[38:2:220:223:228m  [38:2:92:99:112m// Output the square of a number.
+[m[38:2:220:223:228m  [38:2:198:120:221mfn[38:2:220:223:228m [38:2:97:175:239mprint_square[38:2:220:223:228m([38:2:224:108:117mnum[38:2:220:223:228m: [38:2:198:120:221mf64[38:2:220:223:228m) {
+[m[38:2:220:223:228m      [38:2:198:120:221mlet[38:2:220:223:228m result [38:2:198:120:221m=[38:2:220:223:228m [38:2:198:120:221mf64[38:2:220:223:228m::powf(num, [38:2:229:192:123m2.0[38:2:220:223:228m);
+[m[38:2:220:223:228m      println!([38:2:152:195:121m"The square of [38:2:229:192:123m{:.2}[38:2:152:195:121m is [38:2:229:192:123m{:.2}[38:2:152:195:121m."[38:2:220:223:228m, num, result);
+[m[38:2:220:223:228m  }
+
+[mTheme: [22;1mOneHalfLight
+
+[m[38:2:56:58:66m  [38:2:160:161:167m// Output the square of a number.
+[m[38:2:56:58:66m  [38:2:166:38:164mfn[38:2:56:58:66m [38:2:1:132:188mprint_square[38:2:56:58:66m([38:2:228:86:73mnum[38:2:56:58:66m: [38:2:166:38:164mf64[38:2:56:58:66m) {
+[m[38:2:56:58:66m      [38:2:166:38:164mlet[38:2:56:58:66m result [38:2:166:38:164m=[38:2:56:58:66m [38:2:166:38:164mf64[38:2:56:58:66m::powf(num, [38:2:193:132:1m2.0[38:2:56:58:66m);
+[m[38:2:56:58:66m      println!([38:2:80:161:79m"The square of [38:2:193:132:1m{:.2}[38:2:80:161:79m is [38:2:193:132:1m{:.2}[38:2:80:161:79m."[38:2:56:58:66m, num, result);
+[m[38:2:56:58:66m  }
+
+[mTheme: [22;1mSolarized (dark)
+
+[m[38:2:131:148:150m  [38:2:88:110:117m// Output the square of a number.
+[m[38:2:131:148:150m  [38:2:38:139:210mfn[38:2:131:148:150m [38:2:181:137:0mprint_square[38:2:101:123:131m([38:2:38:139:210mnum[38:2:131:148:150m: [38:2:38:139:210mf64[38:2:101:123:131m)[38:2:131:148:150m [38:2:101:123:131m{
+[m[38:2:131:148:150m      [38:2:38:139:210mlet[38:2:131:148:150m result [38:2:101:123:131m=[38:2:131:148:150m [38:2:38:139:210mf64[38:2:131:148:150m::powf[38:2:101:123:131m([38:2:131:148:150mnum, [38:2:108:113:196m2.0[38:2:101:123:131m)[38:2:131:148:150m;
+[m[38:2:131:148:150m      [38:2:133:153:0mprintln![38:2:101:123:131m([38:2:131:148:150m"[38:2:42:161:152mThe square of [38:2:203:75:22m{:.2}[38:2:42:161:152m is [38:2:203:75:22m{:.2}[38:2:42:161:152m.[38:2:131:148:150m", num, result[38:2:101:123:131m)[38:2:131:148:150m;
+[m[38:2:131:148:150m  [38:2:101:123:131m}
+
+[mTheme: [22;1mSolarized (light)
+
+[m[38:2:101:123:131m  [38:2:147:161:161m// Output the square of a number.
+[m[38:2:101:123:131m  [38:2:38:139:210mfn[38:2:101:123:131m [38:2:181:137:0mprint_square[38:2:101:123:131m([38:2:38:139:210mnum[38:2:101:123:131m: [38:2:38:139:210mf64[38:2:101:123:131m) {
+[m[38:2:101:123:131m      [38:2:38:139:210mlet[38:2:101:123:131m result = [38:2:38:139:210mf64[38:2:101:123:131m::powf(num, [38:2:108:113:196m2.0[38:2:101:123:131m);
+[m[38:2:101:123:131m      [38:2:133:153:0mprintln![38:2:101:123:131m([38:2:131:148:150m"[38:2:42:161:152mThe square of [38:2:203:75:22m{:.2}[38:2:42:161:152m is [38:2:203:75:22m{:.2}[38:2:42:161:152m.[38:2:131:148:150m"[38:2:101:123:131m, num, result);
+[m[38:2:101:123:131m  }
+
+[mTheme: [22;1mSublime Snazzy
+
+[m[38:2:248:248:242m  [38:2:104:104:104m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:154:237:254mfn[38:2:248:248:242m [38:2:154:237:254mprint_square[38:2:248:248:242m([38:2:255:106:193mnum[38:2:248:248:242m: [38:2:154:237:254mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:154:237:254mlet[38:2:248:248:242m result [38:2:255:92:87m=[38:2:248:248:242m [38:2:154:237:254mf64[38:2:248:248:242m::powf(num, [38:2:241:241:240m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:243:249:157m"The square of [38:2:90:247:142m{:.2}[38:2:243:249:157m is [38:2:90:247:142m{:.2}[38:2:243:249:157m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mTwoDark
+
+[m[38:2:171:178:191m  [38:2:92:99:112m// Output the square of a number.
+[m[38:2:171:178:191m  [38:2:198:120:221mfn[38:2:171:178:191m [38:2:97:175:239mprint_square[38:2:171:178:191m([38:2:224:108:117mnum[38:2:171:178:191m: [38:2:198:120:221mf64[38:2:171:178:191m) {
+[m[38:2:171:178:191m      [38:2:198:120:221mlet[38:2:171:178:191m result = [38:2:198:120:221mf64[38:2:171:178:191m::powf(num, [38:2:209:154:102m2.0[38:2:171:178:191m);
+[m[38:2:171:178:191m      println!([38:2:152:195:121m"The square of [38:2:209:154:102m{:.2}[38:2:152:195:121m is [38:2:209:154:102m{:.2}[38:2:152:195:121m."[38:2:171:178:191m, num, result);
+[m[38:2:171:178:191m  }
+
+[mTheme: [22;1mVisual Studio Dark+
+
+[m[38:2:220:220:220m  [38:2:96:139:78m// Output the square of a number.
+[m[38:2:220:220:220m  [38:2:86:156:214mfn[38:2:220:220:220m [38:2:220:220:170mprint_square[38:2:220:220:220m([38:2:156:220:254mnum[38:2:220:220:220m: [38:2:86:156:214mf64[38:2:220:220:220m) {
+[m[38:2:220:220:220m      [38:2:86:156:214mlet[38:2:220:220:220m result = [38:2:86:156:214mf64[38:2:220:220:220m::powf(num, [38:2:181:206:168m2.0[38:2:220:220:220m);
+[m[38:2:220:220:220m      println!([38:2:214:157:133m"The square of [38:2:180:206:168m{:.2}[38:2:214:157:133m is [38:2:180:206:168m{:.2}[38:2:214:157:133m."[38:2:220:220:220m, num, result);
+[m[38:2:220:220:220m  }
+
+[mTheme: [22;1mansi
+
+[m  [32m// Output the square of a number.
+[m  [35mfn[39m [34mprint_square[39m(num: [35mf64[39m) {
+[m      [35mlet[39m result [35m=[39m [35mf64[39m::powf(num, [33m2.0[39m);
+[m      println!([32m"The square of [33m{:.2}[32m is [33m{:.2}[32m."[39m, num, result);
+[m  }
+
+[mTheme: [22;1mbase16
+
+[m[37m  [90m// Output the square of a number.
+[m[37m  [35mfn[37m [34mprint_square[37m(num: [35mf64[37m) {
+[m[37m      [35mlet[37m result = [35mf64[37m::powf(num, [91m2.0[37m);
+[m[37m      println!("[32mThe square of [91m{:.2}[32m is [91m{:.2}[32m.[37m", num, result);
+[m[37m  }
+
+[mTheme: [22;1mbase16-256
+
+[m[37m  [90m// Output the square of a number.
+[m[37m  [35mfn[37m [34mprint_square[37m(num: [35mf64[37m) {
+[m[37m      [35mlet[37m result = [35mf64[37m::powf(num, [38:5:16m2.0[37m);
+[m[37m      println!("[32mThe square of [38:5:16m{:.2}[32m is [38:5:16m{:.2}[32m.[37m", num, result);
+[m[37m  }
+
+[mTheme: [22;1mgruvbox-dark
+
+[m[38:2:251:241:199m  [38:2:146:131:116m// Output the square of a number.
+[m[38:2:251:241:199m  [38:2:142:192:124mfn[38:2:251:241:199m [38:2:184:187:38mprint_square[38:2:251:241:199m(num: [38:2:251:73:52mf64[38:2:251:241:199m) {
+[m[38:2:251:241:199m      [38:2:251:73:52mlet[38:2:251:241:199m result [38:2:142:192:124m=[38:2:251:241:199m [38:2:251:73:52mf64[38:2:251:241:199m::powf(num, [38:2:211:134:155m2.0[38:2:251:241:199m);
+[m[38:2:251:241:199m      println!("[38:2:184:187:38mThe square of [38:2:142:192:124m{:.2}[38:2:184:187:38m is [38:2:142:192:124m{:.2}[38:2:184:187:38m.[38:2:251:241:199m", num, result);
+[m[38:2:251:241:199m  }
+
+[mTheme: [22;1mgruvbox-light
+
+[m[38:2:40:40:40m  [38:2:146:131:116m// Output the square of a number.
+[m[38:2:40:40:40m  [38:2:66:123:88mfn[38:2:40:40:40m [38:2:121:116:14mprint_square[38:2:40:40:40m(num: [38:2:157:0:6mf64[38:2:40:40:40m) {
+[m[38:2:40:40:40m      [38:2:157:0:6mlet[38:2:40:40:40m result [38:2:66:123:88m=[38:2:40:40:40m [38:2:157:0:6mf64[38:2:40:40:40m::powf(num, [38:2:143:63:113m2.0[38:2:40:40:40m);
+[m[38:2:40:40:40m      println!("[38:2:121:116:14mThe square of [38:2:66:123:88m{:.2}[38:2:121:116:14m is [38:2:66:123:88m{:.2}[38:2:121:116:14m.[38:2:40:40:40m", num, result);
+[m[38:2:40:40:40m  }
+
+[mTheme: [22;1mzenburn
+
+[m[38:2:222:222:222m  [38:2:160:207:161m//[38:2:135:174:134m Output the square of a number.
+[m[38:2:222:222:222m  [38:2:255:251:157mfn[38:2:222:222:222m [38:2:255:253:135mprint_square[38:2:222:222:222m(num: [38:2:255:251:157mf64[38:2:222:222:222m) {
+[m[38:2:222:222:222m      [38:2:255:251:157mlet[38:2:222:222:222m result [38:2:236:236:236m=[38:2:222:222:222m [38:2:255:251:157mf64[38:2:222:222:222m::powf(num, [22;1;38:2:135:214:213m2.0[22;38:2:222:222:222m);
+[m[38:2:222:222:222m      println!([38:2:214:214:214m"[38:2:214:134:134mThe square of [22;1;38:2:204:148:149m{:.2}[22;38:2:214:134:134m is [22;1;38:2:204:148:149m{:.2}[22;38:2:214:134:134m.[38:2:214:214:214m"[38:2:222:222:222m, num, result);
+[m[38:2:222:222:222m  }
+
+[mFurther themes can be installed to '/home/afif/.config/bat/themes', and are added to the cache with `bat cache --build`. For more information, see:
+
+[m  https://github.com/sharkdp/bat#adding-new-themes
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:27 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36m--list-themes[39m [32m|[39m [34mgrep[39m [36;4mcat
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:27 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36m--list-themes[7;39m^C
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:28 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36m--list-themes
+[m]133;C\Theme: [22;1m1337
+
+[m[38:2:248:248:242m  [38:2:109:109:109m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:251:223:181mfn[38:2:248:248:242m [38:2:140:218:255mprint_square[38:2:248:248:242m([38:2:252:147:84mnum[38:2:248:248:242m: [38:2:251:223:181mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:251:223:181mlet[38:2:248:248:242m result [38:2:255:94:94m=[38:2:248:248:242m [38:2:251:223:181mf64[38:2:248:248:242m::powf(num, [38:2:253:176:130m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:255:255:255m"[38:2:251:227:191mThe square of [38:2:253:176:130m{:.2}[38:2:251:227:191m is [38:2:253:176:130m{:.2}[38:2:251:227:191m.[38:2:255:255:255m"[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mColdark-Cold
+
+[m[38:2:17:27:39m  [38:2:60:82:109m// Output the square of a number.
+[m[38:2:17:27:39m  [38:2:160:73:0mfn[38:2:17:27:39m [38:2:124:0:170mprint_square[38:2:17:27:39m([38:2:0:109:109mnum[38:2:17:27:39m: [38:2:160:73:0mf64[38:2:17:27:39m) {
+[m[38:2:17:27:39m      [38:2:160:73:0mlet[38:2:17:27:39m result [38:2:160:73:0m=[38:2:17:27:39m [38:2:160:73:0mf64[38:2:17:27:39m::powf(num, [38:2:117:95:0m2.0[38:2:17:27:39m);
+[m[38:2:17:27:39m      println!([38:2:17:107:0m"The square of [38:2:0:90:142m{:.2}[38:2:17:107:0m is [38:2:0:90:142m{:.2}[38:2:17:107:0m."[38:2:17:27:39m, num, result);
+[m[38:2:17:27:39m  }
+
+[mTheme: [22;1mColdark-Dark
+
+[m[38:2:227:234:242m  [38:2:141:161:185m// Output the square of a number.
+[m[38:2:227:234:242m  [38:2:233:174:126mfn[38:2:227:234:242m [38:2:198:153:227mprint_square[38:2:227:234:242m([38:2:102:204:204mnum[38:2:227:234:242m: [38:2:233:174:126mf64[38:2:227:234:242m) {
+[m[38:2:227:234:242m      [38:2:233:174:126mlet[38:2:227:234:242m result [38:2:233:174:126m=[38:2:227:234:242m [38:2:233:174:126mf64[38:2:227:234:242m::powf(num, [38:2:230:211:122m2.0[38:2:227:234:242m);
+[m[38:2:227:234:242m      println!([38:2:145:208:118m"The square of [38:2:108:184:230m{:.2}[38:2:145:208:118m is [38:2:108:184:230m{:.2}[38:2:145:208:118m."[38:2:227:234:242m, num, result);
+[m[38:2:227:234:242m  }
+
+[mTheme: [22;1mDarkNeon
+
+[m[38:2:255:255:255m  [38:2:124:124:124m// Output the square of a number.
+[m[38:2:255:255:255m  [38:2:207:203:144mfn[38:2:255:255:255m [38:2:248:248:248mprint_square[38:2:255:255:255m([38:2:198:197:254mnum[38:2:255:255:255m: [38:2:207:203:144mf64[38:2:255:255:255m) {
+[m[38:2:255:255:255m      [38:2:207:203:144mlet[38:2:255:255:255m result [38:2:170:170:170m=[38:2:255:255:255m [38:2:207:203:144mf64[38:2:255:255:255m::powf(num, [22;1;38:2:255:115:253m2.0[22;38:2:255:255:255m);
+[m[38:2:255:255:255m      [38:2:255:255:182mprintln![38:2:255:255:255m([38:2:204:255:102m"The square of [38:2:0:160:160m{:.2}[38:2:204:255:102m is [38:2:0:160:160m{:.2}[38:2:204:255:102m."[38:2:255:255:255m, num, result);
+[m[38:2:255:255:255m  }
+
+[mTheme: [22;1mDracula
+
+[m[38:2:248:248:242m  [38:2:98:114:164m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:139:233:253mfn[38:2:248:248:242m [38:2:80:250:123mprint_square[38:2:248:248:242m([38:2:255:184:108mnum[38:2:248:248:242m: [38:2:139:233:253mf64[38:2:248:248:242m) [38:2:255:255:255m{
+[m[38:2:248:248:242m      [38:2:139:233:253mlet[38:2:248:248:242m result [38:2:255:121:198m=[38:2:248:248:242m [38:2:139:233:253mf64[38:2:255:121:198;4m::[38:2:248:248:242;24mpowf(num, [38:2:189:147:249m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:241:250:140m"The square of [38:2:189:147:249m{:.2}[38:2:241:250:140m is [38:2:189:147:249m{:.2}[38:2:241:250:140m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  [38:2:255:255:255m}
+
+[mTheme: [22;1mGitHub
+
+[m[38:2:51:51:51m  [38:2:150:152:150m// Output the square of a number.
+[m[38:2:51:51:51m  [38:2:167:29:93mfn[38:2:51:51:51m [38:2:121:93:163mprint_square[38:2:51:51:51m([38:2:0:134:179mnum[38:2:51:51:51m: [38:2:167:29:93mf64[38:2:51:51:51m) {
+[m[38:2:51:51:51m      [38:2:167:29:93mlet[38:2:51:51:51m result [38:2:167:29:93m=[38:2:51:51:51m [38:2:167:29:93mf64[38:2:51:51:51m::powf(num, [38:2:0:134:179m2.0[38:2:51:51:51m);
+[m[38:2:51:51:51m      println!([38:2:24:54:145m"The square of [38:2:0:134:179m{:.2}[38:2:24:54:145m is [38:2:0:134:179m{:.2}[38:2:24:54:145m."[38:2:51:51:51m, num, result);
+[m[38:2:51:51:51m  }
+
+[mTheme: [22;1mMonokai Extended
+
+[m[38:2:248:248:242m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:102:217:239mfn[38:2:248:248:242m [38:2:166:226:46mprint_square[38:2:248:248:242m([38:2:253:151:31mnum[38:2:248:248:242m: [38:2:102:217:239mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:102:217:239mlet[38:2:248:248:242m result [38:2:249:38:114m=[38:2:248:248:242m [38:2:102:217:239mf64[38:2:248:248:242m::powf(num, [38:2:190:132:255m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:230:219:116m"The square of [38:2:190:132:255m{:.2}[38:2:230:219:116m is [38:2:190:132:255m{:.2}[38:2:230:219:116m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mMonokai Extended Bright
+
+[m[38:2:248:248:242m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:102:217:239mfn[38:2:248:248:242m [38:2:166:226:46mprint_square[38:2:248:248:242m([38:2:253:151:31mnum[38:2:248:248:242m: [38:2:102:217:239mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:102:217:239mlet[38:2:248:248:242m result [38:2:249:38:114m=[38:2:248:248:242m [38:2:102:217:239mf64[38:2:248:248:242m::powf(num, [38:2:174:129:255m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:230:219:116m"The square of [38:2:174:129:255m{:.2}[38:2:230:219:116m is [38:2:174:129:255m{:.2}[38:2:230:219:116m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mMonokai Extended Light
+
+[m[38:2:73:72:62m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:73:72:62m  [38:2:0:137:179mfn[38:2:73:72:62m [38:2:103:156:0mprint_square[38:2:73:72:62m([38:2:207:112:0mnum[38:2:73:72:62m: [38:2:0:137:179mf64[38:2:73:72:62m) {
+[m[38:2:73:72:62m      [38:2:0:137:179mlet[38:2:73:72:62m result [38:2:249:0:90m=[38:2:73:72:62m [38:2:0:137:179mf64[38:2:73:72:62m::powf(num, [38:2:104:77:153m2.0[38:2:73:72:62m);
+[m[38:2:73:72:62m      println!([38:2:153:143:47m"The square of [38:2:104:77:153m{:.2}[38:2:153:143:47m is [38:2:104:77:153m{:.2}[38:2:153:143:47m."[38:2:73:72:62m, num, result);
+[m[38:2:73:72:62m  }
+
+[mTheme: [22;1mMonokai Extended Origin
+
+[m[38:2:248:248:242m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:102:217:239mfn[38:2:248:248:242m [38:2:166:226:46mprint_square[38:2:248:248:242m([38:2:253:151:31mnum[38:2:248:248:242m: [38:2:102:217:239mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:102:217:239mlet[38:2:248:248:242m result [38:2:249:38:114m=[38:2:248:248:242m [38:2:102:217:239mf64[38:2:248:248:242m::powf(num, [38:2:174:129:255m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:230:219:116m"The square of [38:2:174:129:255m{:.2}[38:2:230:219:116m is [38:2:174:129:255m{:.2}[38:2:230:219:116m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mNord
+
+[m[38:2:216:222:233m  [38:2:97:110:136m// Output the square of a number.
+[m[38:2:216:222:233m  [38:2:129:161:193mfn[38:2:216:222:233m [38:2:136:192:208mprint_square[38:2:216:222:233m(num[38:2:236:239:244m:[38:2:216:222:233m [38:2:129:161:193mf64[38:2:216:222:233m) {
+[m[38:2:216:222:233m      [38:2:129:161:193mlet[38:2:216:222:233m result [38:2:129:161:193m=[38:2:216:222:233m [38:2:129:161:193mf64::[38:2:216:222:233mpowf(num[38:2:236:239:244m,[38:2:216:222:233m [38:2:180:142:173m2.0[38:2:216:222:233m)[38:2:236:239:244m;
+[m[38:2:216:222:233m      println!([38:2:163:190:140m"The square of [38:2:235:203:139m{:.2}[38:2:163:190:140m is [38:2:235:203:139m{:.2}[38:2:163:190:140m."[38:2:236:239:244m,[38:2:216:222:233m num[38:2:236:239:244m,[38:2:216:222:233m result)[38:2:236:239:244m;
+[m[38:2:216:222:233m  }
+
+[mTheme: [22;1mOneHalfDark
+
+[m[38:2:220:223:228m  [38:2:92:99:112m// Output the square of a number.
+[m[38:2:220:223:228m  [38:2:198:120:221mfn[38:2:220:223:228m [38:2:97:175:239mprint_square[38:2:220:223:228m([38:2:224:108:117mnum[38:2:220:223:228m: [38:2:198:120:221mf64[38:2:220:223:228m) {
+[m[38:2:220:223:228m      [38:2:198:120:221mlet[38:2:220:223:228m result [38:2:198:120:221m=[38:2:220:223:228m [38:2:198:120:221mf64[38:2:220:223:228m::powf(num, [38:2:229:192:123m2.0[38:2:220:223:228m);
+[m[38:2:220:223:228m      println!([38:2:152:195:121m"The square of [38:2:229:192:123m{:.2}[38:2:152:195:121m is [38:2:229:192:123m{:.2}[38:2:152:195:121m."[38:2:220:223:228m, num, result);
+[m[38:2:220:223:228m  }
+
+[mTheme: [22;1mOneHalfLight
+
+[m[38:2:56:58:66m  [38:2:160:161:167m// Output the square of a number.
+[m[38:2:56:58:66m  [38:2:166:38:164mfn[38:2:56:58:66m [38:2:1:132:188mprint_square[38:2:56:58:66m([38:2:228:86:73mnum[38:2:56:58:66m: [38:2:166:38:164mf64[38:2:56:58:66m) {
+[m[38:2:56:58:66m      [38:2:166:38:164mlet[38:2:56:58:66m result [38:2:166:38:164m=[38:2:56:58:66m [38:2:166:38:164mf64[38:2:56:58:66m::powf(num, [38:2:193:132:1m2.0[38:2:56:58:66m);
+[m[38:2:56:58:66m      println!([38:2:80:161:79m"The square of [38:2:193:132:1m{:.2}[38:2:80:161:79m is [38:2:193:132:1m{:.2}[38:2:80:161:79m."[38:2:56:58:66m, num, result);
+[m[38:2:56:58:66m  }
+
+[mTheme: [22;1mSolarized (dark)
+
+[m[38:2:131:148:150m  [38:2:88:110:117m// Output the square of a number.
+[m[38:2:131:148:150m  [38:2:38:139:210mfn[38:2:131:148:150m [38:2:181:137:0mprint_square[38:2:101:123:131m([38:2:38:139:210mnum[38:2:131:148:150m: [38:2:38:139:210mf64[38:2:101:123:131m)[38:2:131:148:150m [38:2:101:123:131m{
+[m[38:2:131:148:150m      [38:2:38:139:210mlet[38:2:131:148:150m result [38:2:101:123:131m=[38:2:131:148:150m [38:2:38:139:210mf64[38:2:131:148:150m::powf[38:2:101:123:131m([38:2:131:148:150mnum, [38:2:108:113:196m2.0[38:2:101:123:131m)[38:2:131:148:150m;
+[m[38:2:131:148:150m      [38:2:133:153:0mprintln![38:2:101:123:131m([38:2:131:148:150m"[38:2:42:161:152mThe square of [38:2:203:75:22m{:.2}[38:2:42:161:152m is [38:2:203:75:22m{:.2}[38:2:42:161:152m.[38:2:131:148:150m", num, result[38:2:101:123:131m)[38:2:131:148:150m;
+[m[38:2:131:148:150m  [38:2:101:123:131m}
+
+[mTheme: [22;1mSolarized (light)
+
+[m[38:2:101:123:131m  [38:2:147:161:161m// Output the square of a number.
+[m[38:2:101:123:131m  [38:2:38:139:210mfn[38:2:101:123:131m [38:2:181:137:0mprint_square[38:2:101:123:131m([38:2:38:139:210mnum[38:2:101:123:131m: [38:2:38:139:210mf64[38:2:101:123:131m) {
+[m[38:2:101:123:131m      [38:2:38:139:210mlet[38:2:101:123:131m result = [38:2:38:139:210mf64[38:2:101:123:131m::powf(num, [38:2:108:113:196m2.0[38:2:101:123:131m);
+[m[38:2:101:123:131m      [38:2:133:153:0mprintln![38:2:101:123:131m([38:2:131:148:150m"[38:2:42:161:152mThe square of [38:2:203:75:22m{:.2}[38:2:42:161:152m is [38:2:203:75:22m{:.2}[38:2:42:161:152m.[38:2:131:148:150m"[38:2:101:123:131m, num, result);
+[m[38:2:101:123:131m  }
+
+[mTheme: [22;1mSublime Snazzy
+
+[m[38:2:248:248:242m  [38:2:104:104:104m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:154:237:254mfn[38:2:248:248:242m [38:2:154:237:254mprint_square[38:2:248:248:242m([38:2:255:106:193mnum[38:2:248:248:242m: [38:2:154:237:254mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:154:237:254mlet[38:2:248:248:242m result [38:2:255:92:87m=[38:2:248:248:242m [38:2:154:237:254mf64[38:2:248:248:242m::powf(num, [38:2:241:241:240m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:243:249:157m"The square of [38:2:90:247:142m{:.2}[38:2:243:249:157m is [38:2:90:247:142m{:.2}[38:2:243:249:157m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mTwoDark
+
+[m[38:2:171:178:191m  [38:2:92:99:112m// Output the square of a number.
+[m[38:2:171:178:191m  [38:2:198:120:221mfn[38:2:171:178:191m [38:2:97:175:239mprint_square[38:2:171:178:191m([38:2:224:108:117mnum[38:2:171:178:191m: [38:2:198:120:221mf64[38:2:171:178:191m) {
+[m[38:2:171:178:191m      [38:2:198:120:221mlet[38:2:171:178:191m result = [38:2:198:120:221mf64[38:2:171:178:191m::powf(num, [38:2:209:154:102m2.0[38:2:171:178:191m);
+[m[38:2:171:178:191m      println!([38:2:152:195:121m"The square of [38:2:209:154:102m{:.2}[38:2:152:195:121m is [38:2:209:154:102m{:.2}[38:2:152:195:121m."[38:2:171:178:191m, num, result);
+[m[38:2:171:178:191m  }
+
+[mTheme: [22;1mVisual Studio Dark+
+
+[m[38:2:220:220:220m  [38:2:96:139:78m// Output the square of a number.
+[m[38:2:220:220:220m  [38:2:86:156:214mfn[38:2:220:220:220m [38:2:220:220:170mprint_square[38:2:220:220:220m([38:2:156:220:254mnum[38:2:220:220:220m: [38:2:86:156:214mf64[38:2:220:220:220m) {
+[m[38:2:220:220:220m      [38:2:86:156:214mlet[38:2:220:220:220m result = [38:2:86:156:214mf64[38:2:220:220:220m::powf(num, [38:2:181:206:168m2.0[38:2:220:220:220m);
+[m[38:2:220:220:220m      println!([38:2:214:157:133m"The square of [38:2:180:206:168m{:.2}[38:2:214:157:133m is [38:2:180:206:168m{:.2}[38:2:214:157:133m."[38:2:220:220:220m, num, result);
+[m[38:2:220:220:220m  }
+
+[mTheme: [22;1mansi
+
+[m  [32m// Output the square of a number.
+[m  [35mfn[39m [34mprint_square[39m(num: [35mf64[39m) {
+[m      [35mlet[39m result [35m=[39m [35mf64[39m::powf(num, [33m2.0[39m);
+[m      println!([32m"The square of [33m{:.2}[32m is [33m{:.2}[32m."[39m, num, result);
+[m  }
+
+[mTheme: [22;1mbase16
+
+[m[37m  [90m// Output the square of a number.
+[m[37m  [35mfn[37m [34mprint_square[37m(num: [35mf64[37m) {
+[m[37m      [35mlet[37m result = [35mf64[37m::powf(num, [91m2.0[37m);
+[m[37m      println!("[32mThe square of [91m{:.2}[32m is [91m{:.2}[32m.[37m", num, result);
+[m[37m  }
+
+[mTheme: [22;1mbase16-256
+
+[m[37m  [90m// Output the square of a number.
+[m[37m  [35mfn[37m [34mprint_square[37m(num: [35mf64[37m) {
+[m[37m      [35mlet[37m result = [35mf64[37m::powf(num, [38:5:16m2.0[37m);
+[m[37m      println!("[32mThe square of [38:5:16m{:.2}[32m is [38:5:16m{:.2}[32m.[37m", num, result);
+[m[37m  }
+
+[mTheme: [22;1mgruvbox-dark
+
+[m[38:2:251:241:199m  [38:2:146:131:116m// Output the square of a number.
+[m[38:2:251:241:199m  [38:2:142:192:124mfn[38:2:251:241:199m [38:2:184:187:38mprint_square[38:2:251:241:199m(num: [38:2:251:73:52mf64[38:2:251:241:199m) {
+[m[38:2:251:241:199m      [38:2:251:73:52mlet[38:2:251:241:199m result [38:2:142:192:124m=[38:2:251:241:199m [38:2:251:73:52mf64[38:2:251:241:199m::powf(num, [38:2:211:134:155m2.0[38:2:251:241:199m);
+[m[38:2:251:241:199m      println!("[38:2:184:187:38mThe square of [38:2:142:192:124m{:.2}[38:2:184:187:38m is [38:2:142:192:124m{:.2}[38:2:184:187:38m.[38:2:251:241:199m", num, result);
+[m[38:2:251:241:199m  }
+
+[mTheme: [22;1mgruvbox-light
+
+[m[38:2:40:40:40m  [38:2:146:131:116m// Output the square of a number.
+[m[38:2:40:40:40m  [38:2:66:123:88mfn[38:2:40:40:40m [38:2:121:116:14mprint_square[38:2:40:40:40m(num: [38:2:157:0:6mf64[38:2:40:40:40m) {
+[m[38:2:40:40:40m      [38:2:157:0:6mlet[38:2:40:40:40m result [38:2:66:123:88m=[38:2:40:40:40m [38:2:157:0:6mf64[38:2:40:40:40m::powf(num, [38:2:143:63:113m2.0[38:2:40:40:40m);
+[m[38:2:40:40:40m      println!("[38:2:121:116:14mThe square of [38:2:66:123:88m{:.2}[38:2:121:116:14m is [38:2:66:123:88m{:.2}[38:2:121:116:14m.[38:2:40:40:40m", num, result);
+[m[38:2:40:40:40m  }
+
+[mTheme: [22;1mzenburn
+
+[m[38:2:222:222:222m  [38:2:160:207:161m//[38:2:135:174:134m Output the square of a number.
+[m[38:2:222:222:222m  [38:2:255:251:157mfn[38:2:222:222:222m [38:2:255:253:135mprint_square[38:2:222:222:222m(num: [38:2:255:251:157mf64[38:2:222:222:222m) {
+[m[38:2:222:222:222m      [38:2:255:251:157mlet[38:2:222:222:222m result [38:2:236:236:236m=[38:2:222:222:222m [38:2:255:251:157mf64[38:2:222:222:222m::powf(num, [22;1;38:2:135:214:213m2.0[22;38:2:222:222:222m);
+[m[38:2:222:222:222m      println!([38:2:214:214:214m"[38:2:214:134:134mThe square of [22;1;38:2:204:148:149m{:.2}[22;38:2:214:134:134m is [22;1;38:2:204:148:149m{:.2}[22;38:2:214:134:134m.[38:2:214:214:214m"[38:2:222:222:222m, num, result);
+[m[38:2:222:222:222m  }
+
+[mFurther themes can be installed to '/home/afif/.config/bat/themes', and are added to the cache with `bat cache --build`. For more information, see:
+
+[m  https://github.com/sharkdp/bat#adding-new-themes
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:28 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache[39m [36m--build
+[m]133;C\[22;1;31merror:[22;39m unexpected argument '[33m--build[39m' found
+
+[m  [32mtip:[39m to pass '[33m--build[39m' as a value, use '[32m-- --build[39m'
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [22;1m--force-colorization[22m [22;1m--style[22m <components> [22;1m--theme[22m <theme> <FILE>...
+
+[mFor more information, try '[22;1m--help[22m'.
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:28 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache[39m [36m--build
+[m]133;C\[22;1;31merror:[22;39m unexpected argument '[33m--build[39m' found
+
+[m  [32mtip:[39m to pass '[33m--build[39m' as a value, use '[32m-- --build[39m'
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [22;1m--force-colorization[22m [22;1m--style[22m <components> [22;1m--theme[22m <theme> <FILE>...
+
+[mFor more information, try '[22;1m--help[22m'.
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:28 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache[39m [36m--[39m [36m--build
+[m]133;C\[31m[bat error][39m: 'cache': No such file or directory (os error 2)
+[m[31m[bat error][39m: '--build': No such file or directory (os error 2)
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:28 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache[39m [36m--build
+[m]133;C\[22;1;31merror:[22;39m unexpected argument '[33m--build[39m' found
+
+[m  [32mtip:[39m to pass '[33m--build[39m' as a value, use '[32m-- --build[39m'
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [22;1m--force-colorization[22m [22;1m--style[22m <components> [22;1m--theme[22m <theme> <FILE>...
+
+[mFor more information, try '[22;1m--help[22m'.
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:28 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36m--help
+[m]133;C\A cat(1) clone with syntax highlighting and Git integration.
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [OPTIONS] [FILE]...
+[m       [22;1mbat[22m <COMMAND>
+
+[m[22;1;4mArguments:
+[m  [FILE]...
+[m          File(s) to print / concatenate. Use a dash ('-') or no argument at all to read from
+[m          standard input.
+
+[m[22;1;4mOptions:
+[m  [22;1m-A[22m, [22;1m--show-all
+[m          Show non-printable characters like space, tab or newline. This option can also be used to
+[m          print binary files. Use '--tabs' to control the width of the tab-placeholders.
+
+[m      [22;1m--nonprintable-notation[22m <notation>
+[m          Set notation for non-printable characters.
+[m          
+[m          Possible values:
+[m            * unicode (␇, ␊, ␀, ..)
+[m            * caret   (^G, ^J, ^@, ..)
+
+[m  [22;1m-p[22m, [22;1m--plain[22m...
+[m          Only show plain style, no decorations. This is an alias for '--style=plain'. When '-p' is
+[m          used twice ('-pp'), it also disables automatic paging (alias for '--style=plain
+[m          --paging=never').
+
+[m  [22;1m-l[22m, [22;1m--language[22m <language>
+[m          Explicitly set the language for syntax highlighting. The language can be specified as a
+[m          name (like 'C++' or 'LaTeX') or possible file extension (like 'cpp', 'hpp' or 'md'). Use
+[m          '--list-languages' to show all supported language names and file extensions.
+
+[m  [22;1m-H[22m, [22;1m--highlight-line[22m <N:M>
+[m          Highlight the specified line ranges with a different background color For example:
+[m            '--highlight-line 40' highlights line 40
+[m            '--highlight-line 30:40' highlights lines 30 to 40
+[m            '--highlight-line :40' highlights lines 1 to 40
+[m            '--highlight-line 40:' highlights lines 40 to the end of the file
+[m            '--highlight-line 30:+10' highlights lines 30 to 40
+
+[m      [22;1m--file-name[22m <name>
+[m          Specify the name to display for a file. Useful when piping data to bat from STDIN when bat
+[m          does not otherwise know the filename. Note that the provided file name is also used for
+[m          syntax detection.
+
+[m  [22;1m-d[22m, [22;1m--diff
+[m          Only show lines that have been added/removed/modified with respect to the Git index. Use
+[m          --diff-context=N to control how much context you want to see.
+
+[m      [22;1m--diff-context[22m <N>
+[m          Include N lines of context around added/removed/modified lines when using '--diff'.
+
+[m      [22;1m--tabs[22m <T>
+[m          Set the tab width to T spaces. Use a width of 0 to pass tabs through directly
+
+[m      [22;1m--wrap[22m <mode>
+[m          Specify the text-wrapping mode (*auto*, never, character). The '--terminal-width' option
+[m          can be used in addition to control the output width.
+
+[m  [22;1m-S[22m, [22;1m--chop-long-lines
+[m          Truncate all lines longer than screen width. Alias for '--wrap=never'.
+
+[m      [22;1m--terminal-width[22m <width>
+[m          Explicitly set the width of the terminal instead of determining it automatically. If
+[m          prefixed with '+' or '-', the value will be treated as an offset to the actual terminal
+[m          width. See also: '--wrap'.
+
+[m  [22;1m-n[22m, [22;1m--number
+[m          Only show line numbers, no other decorations. This is an alias for '--style=numbers'
+
+[m      [22;1m--color[22m <when>
+[m          Specify when to use colored output. The automatic mode only enables colors if an
+[m          interactive terminal is detected - colors are automatically disabled if the output goes to
+[m          a pipe.
+[m          Possible values: *auto*, never, always.
+
+[m      [22;1m--italic-text[22m <when>
+[m          Specify when to use ANSI sequences for italic text in the output. Possible values: always,
+[m          *never*.
+
+[m      [22;1m--decorations[22m <when>
+[m          Specify when to use the decorations that have been specified via '--style'. The automatic
+[m          mode only enables decorations if an interactive terminal is detected. Possible values:
+[m          *auto*, never, always.
+
+[m  [22;1m-f[22m, [22;1m--force-colorization
+[m          Alias for '--decorations=always --color=always'. This is useful if the output of bat is
+[m          piped to another program, but you want to keep the colorization/decorations.
+
+[m      [22;1m--paging[22m <when>
+[m          Specify when to use the pager. To disable the pager, use --paging=never' or its
+[m          alias,'-P'. To disable the pager permanently, set BAT_PAGING to 'never'. To control which
+[m          pager is used, see the '--pager' option. Possible values: *auto*, never, always.
+
+[m      [22;1m--pager[22m <command>
+[m          Determine which pager is used. This option will override the PAGER and BAT_PAGER
+[m          environment variables. The default pager is 'less'. To control when the pager is used, see
+[m          the '--paging' option. Example: '--pager "less -RF"'.
+
+[m  [22;1m-m[22m, [22;1m--map-syntax[22m <glob:syntax>
+[m          Map a glob pattern to an existing syntax name. The glob pattern is matched on the full
+[m          path and the filename. For example, to highlight *.build files with the Python syntax, use
+[m          -m '*.build:Python'. To highlight files named '.myignore' with the Git Ignore syntax, use
+[m          -m '.myignore:Git Ignore'. Note that the right-hand side is the *name* of the syntax, not
+[m          a file extension.
+
+[m      [22;1m--ignored-suffix[22m <ignored-suffix>
+[m          Ignore extension. For example:
+[m            'bat --ignored-suffix ".dev" my_file.json.dev' will use JSON syntax, and ignore '.dev'
+
+[m      [22;1m--theme[22m <theme>
+[m          Set the theme for syntax highlighting. Use '--list-themes' to see all available themes. To
+[m          set a default theme, add the '--theme="..."' option to the configuration file or export
+[m          the BAT_THEME environment variable (e.g.: export BAT_THEME="...").
+
+[m      [22;1m--list-themes
+[m          Display a list of supported themes for syntax highlighting.
+
+[m      [22;1m--style[22m <components>
+[m          Configure which elements (line numbers, file headers, grid borders, Git modifications, ..)
+[m          to display in addition to the file contents. The argument is a comma-separated list of
+[m          components to display (e.g. 'numbers,changes,grid') or a pre-defined style ('full'). To
+[m          set a default style, add the '--style=".."' option to the configuration file or export the
+[m          BAT_STYLE environment variable (e.g.: export BAT_STYLE="..").
+[m          
+[m          Possible values:
+[m          
+[m            * default: enables recommended style components (default).
+[m            * full: enables all available components.
+[m            * auto: same as 'default', unless the output is piped.
+[m            * plain: disables all available components.
+[m            * changes: show Git modification markers.
+[m            * header: alias for 'header-filename'.
+[m            * header-filename: show filenames before the content.
+[m            * header-filesize: show file sizes before the content.
+[m            * grid: vertical/horizontal lines to separate side bar
+[m                    and the header from the content.
+[m            * rule: horizontal lines to delimit files.
+[m            * numbers: show line numbers in the side bar.
+[m            * snip: draw separation lines between distinct line ranges.
+
+[m  [22;1m-r[22m, [22;1m--line-range[22m <N:M>
+[m          Only print the specified range of lines for each file. For example:
+[m            '--line-range 30:40' prints lines 30 to 40
+[m            '--line-range :40' prints lines 1 to 40
+[m            '--line-range 40:' prints lines 40 to the end of the file
+[m            '--line-range 40' only prints line 40
+[m            '--line-range 30:+10' prints lines 30 to 40
+
+[m  [22;1m-L[22m, [22;1m--list-languages
+[m          Display a list of supported languages for syntax highlighting.
+
+[m  [22;1m-u[22m, [22;1m--unbuffered
+[m          This option exists for POSIX-compliance reasons ('u' is for 'unbuffered'). The output is
+[m          always unbuffered - this option is simply ignored.
+
+[m      [22;1m--diagnostic
+[m          Show diagnostic information for bug reports.
+
+[m      [22;1m--acknowledgements
+[m          Show acknowledgements.
+
+[m  [22;1m-h[22m, [22;1m--help
+[m          Print help (see a summary with '-h')
+
+[m  [22;1m-V[22m, [22;1m--version
+[m          Print version
+
+[mYou can use 'bat cache' to customize syntaxes and themes. See 'bat cache --help' for more
+[minformation
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:29 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mman[39m [36mbat
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:29 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcacje
+[m]133;C\[31m[bat error][39m: 'cacje': No such file or directory (os error 2)
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:29 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache
+[m]133;C\[31m[bat error][39m: 'cache': No such file or directory (os error 2)
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:30 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache[39m [36m--help
+[m]133;C\A cat(1) clone with syntax highlighting and Git integration.
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [OPTIONS] [FILE]...
+[m       [22;1mbat[22m <COMMAND>
+
+[m[22;1;4mArguments:
+[m  [FILE]...
+[m          File(s) to print / concatenate. Use a dash ('-') or no argument at all to read from
+[m          standard input.
+
+[m[22;1;4mOptions:
+[m  [22;1m-A[22m, [22;1m--show-all
+[m          Show non-printable characters like space, tab or newline. This option can also be used to
+[m          print binary files. Use '--tabs' to control the width of the tab-placeholders.
+
+[m      [22;1m--nonprintable-notation[22m <notation>
+[m          Set notation for non-printable characters.
+[m          
+[m          Possible values:
+[m            * unicode (␇, ␊, ␀, ..)
+[m            * caret   (^G, ^J, ^@, ..)
+
+[m  [22;1m-p[22m, [22;1m--plain[22m...
+[m          Only show plain style, no decorations. This is an alias for '--style=plain'. When '-p' is
+[m          used twice ('-pp'), it also disables automatic paging (alias for '--style=plain
+[m          --paging=never').
+
+[m  [22;1m-l[22m, [22;1m--language[22m <language>
+[m          Explicitly set the language for syntax highlighting. The language can be specified as a
+[m          name (like 'C++' or 'LaTeX') or possible file extension (like 'cpp', 'hpp' or 'md'). Use
+[m          '--list-languages' to show all supported language names and file extensions.
+
+[m  [22;1m-H[22m, [22;1m--highlight-line[22m <N:M>
+[m          Highlight the specified line ranges with a different background color For example:
+[m            '--highlight-line 40' highlights line 40
+[m            '--highlight-line 30:40' highlights lines 30 to 40
+[m            '--highlight-line :40' highlights lines 1 to 40
+[m            '--highlight-line 40:' highlights lines 40 to the end of the file
+[m            '--highlight-line 30:+10' highlights lines 30 to 40
+
+[m      [22;1m--file-name[22m <name>
+[m          Specify the name to display for a file. Useful when piping data to bat from STDIN when bat
+[m          does not otherwise know the filename. Note that the provided file name is also used for
+[m          syntax detection.
+
+[m  [22;1m-d[22m, [22;1m--diff
+[m          Only show lines that have been added/removed/modified with respect to the Git index. Use
+[m          --diff-context=N to control how much context you want to see.
+
+[m      [22;1m--diff-context[22m <N>
+[m          Include N lines of context around added/removed/modified lines when using '--diff'.
+
+[m      [22;1m--tabs[22m <T>
+[m          Set the tab width to T spaces. Use a width of 0 to pass tabs through directly
+
+[m      [22;1m--wrap[22m <mode>
+[m          Specify the text-wrapping mode (*auto*, never, character). The '--terminal-width' option
+[m          can be used in addition to control the output width.
+
+[m  [22;1m-S[22m, [22;1m--chop-long-lines
+[m          Truncate all lines longer than screen width. Alias for '--wrap=never'.
+
+[m      [22;1m--terminal-width[22m <width>
+[m          Explicitly set the width of the terminal instead of determining it automatically. If
+[m          prefixed with '+' or '-', the value will be treated as an offset to the actual terminal
+[m          width. See also: '--wrap'.
+
+[m  [22;1m-n[22m, [22;1m--number
+[m          Only show line numbers, no other decorations. This is an alias for '--style=numbers'
+
+[m      [22;1m--color[22m <when>
+[m          Specify when to use colored output. The automatic mode only enables colors if an
+[m          interactive terminal is detected - colors are automatically disabled if the output goes to
+[m          a pipe.
+[m          Possible values: *auto*, never, always.
+
+[m      [22;1m--italic-text[22m <when>
+[m          Specify when to use ANSI sequences for italic text in the output. Possible values: always,
+[m          *never*.
+
+[m      [22;1m--decorations[22m <when>
+[m          Specify when to use the decorations that have been specified via '--style'. The automatic
+[m          mode only enables decorations if an interactive terminal is detected. Possible values:
+[m          *auto*, never, always.
+
+[m  [22;1m-f[22m, [22;1m--force-colorization
+[m          Alias for '--decorations=always --color=always'. This is useful if the output of bat is
+[m          piped to another program, but you want to keep the colorization/decorations.
+
+[m      [22;1m--paging[22m <when>
+[m          Specify when to use the pager. To disable the pager, use --paging=never' or its
+[m          alias,'-P'. To disable the pager permanently, set BAT_PAGING to 'never'. To control which
+[m          pager is used, see the '--pager' option. Possible values: *auto*, never, always.
+
+[m      [22;1m--pager[22m <command>
+[m          Determine which pager is used. This option will override the PAGER and BAT_PAGER
+[m          environment variables. The default pager is 'less'. To control when the pager is used, see
+[m          the '--paging' option. Example: '--pager "less -RF"'.
+
+[m  [22;1m-m[22m, [22;1m--map-syntax[22m <glob:syntax>
+[m          Map a glob pattern to an existing syntax name. The glob pattern is matched on the full
+[m          path and the filename. For example, to highlight *.build files with the Python syntax, use
+[m          -m '*.build:Python'. To highlight files named '.myignore' with the Git Ignore syntax, use
+[m          -m '.myignore:Git Ignore'. Note that the right-hand side is the *name* of the syntax, not
+[m          a file extension.
+
+[m      [22;1m--ignored-suffix[22m <ignored-suffix>
+[m          Ignore extension. For example:
+[m            'bat --ignored-suffix ".dev" my_file.json.dev' will use JSON syntax, and ignore '.dev'
+
+[m      [22;1m--theme[22m <theme>
+[m          Set the theme for syntax highlighting. Use '--list-themes' to see all available themes. To
+[m          set a default theme, add the '--theme="..."' option to the configuration file or export
+[m          the BAT_THEME environment variable (e.g.: export BAT_THEME="...").
+
+[m      [22;1m--list-themes
+[m          Display a list of supported themes for syntax highlighting.
+
+[m      [22;1m--style[22m <components>
+[m          Configure which elements (line numbers, file headers, grid borders, Git modifications, ..)
+[m          to display in addition to the file contents. The argument is a comma-separated list of
+[m          components to display (e.g. 'numbers,changes,grid') or a pre-defined style ('full'). To
+[m          set a default style, add the '--style=".."' option to the configuration file or export the
+[m          BAT_STYLE environment variable (e.g.: export BAT_STYLE="..").
+[m          
+[m          Possible values:
+[m          
+[m            * default: enables recommended style components (default).
+[m            * full: enables all available components.
+[m            * auto: same as 'default', unless the output is piped.
+[m            * plain: disables all available components.
+[m            * changes: show Git modification markers.
+[m            * header: alias for 'header-filename'.
+[m            * header-filename: show filenames before the content.
+[m            * header-filesize: show file sizes before the content.
+[m            * grid: vertical/horizontal lines to separate side bar
+[m                    and the header from the content.
+[m            * rule: horizontal lines to delimit files.
+[m            * numbers: show line numbers in the side bar.
+[m            * snip: draw separation lines between distinct line ranges.
+
+[m  [22;1m-r[22m, [22;1m--line-range[22m <N:M>
+[m          Only print the specified range of lines for each file. For example:
+[m            '--line-range 30:40' prints lines 30 to 40
+[m            '--line-range :40' prints lines 1 to 40
+[m            '--line-range 40:' prints lines 40 to the end of the file
+[m            '--line-range 40' only prints line 40
+[m            '--line-range 30:+10' prints lines 30 to 40
+
+[m  [22;1m-L[22m, [22;1m--list-languages
+[m          Display a list of supported languages for syntax highlighting.
+
+[m  [22;1m-u[22m, [22;1m--unbuffered
+[m          This option exists for POSIX-compliance reasons ('u' is for 'unbuffered'). The output is
+[m          always unbuffered - this option is simply ignored.
+
+[m      [22;1m--diagnostic
+[m          Show diagnostic information for bug reports.
+
+[m      [22;1m--acknowledgements
+[m          Show acknowledgements.
+
+[m  [22;1m-h[22m, [22;1m--help
+[m          Print help (see a summary with '-h')
+
+[m  [22;1m-V[22m, [22;1m--version
+[m          Print version
+
+[mYou can use 'bat cache' to customize syntaxes and themes. See 'bat cache --help' for more
+[minformation
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:30 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache[39m [36m--build
+[m]133;C\[22;1;31merror:[22;39m unexpected argument '[33m--build[39m' found
+
+[m  [32mtip:[39m to pass '[33m--build[39m' as a value, use '[32m-- --build[39m'
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [22;1m--force-colorization[22m [22;1m--style[22m <components> [22;1m--theme[22m <theme> <FILE>...
+
+[mFor more information, try '[22;1m--help[22m'.
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:30 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36m-b
+[m]133;C\[22;1;31merror:[22;39m unexpected argument '[33m-b[39m' found
+
+[m  [32mtip:[39m to pass '[33m-b[39m' as a value, use '[32m-- -b[39m'
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [OPTIONS] [FILE]...
+[m       [22;1mbat[22m <COMMAND>
+
+[mFor more information, try '[22;1m--help[22m'.
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:31 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36m-V
+[m]133;C\bat 0.24.0
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:31 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mls
+[m]133;C\[22;1;34mbreeze[22;39m/  [22;1;34mbreeze-openSUSE[22;39m/  [22;1;34mcatppuccin-mocha[22;39m/  [22;1;34melarun[22;39m/  [22;1;34mmaldives[22;39m/  [22;1;34mmaya[22;39m/
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/share/sddm/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:32 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mcd[39m [33m"[96m$([34mbat[39m [36m--config-dir[96m)[33m/themes"
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:32 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mls
+[m]133;C\'Catppuccin Frappe.tmTheme'  'Catppuccin Latte.tmTheme'  'Catppuccin Macchiato.tmTheme'  'Catppuccin Mocha.tmTheme'
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:32 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36;4mCatppuccin[96m\ [36mMocha.tmTheme[39;24m [36m--build
+[m]133;C\[22;1;31merror:[22;39m unexpected argument '[33m--build[39m' found
+
+[m  [32mtip:[39m to pass '[33m--build[39m' as a value, use '[32m-- --build[39m'
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [22;1m--force-colorization[22m [22;1m--style[22m <components> [22;1m--theme[22m <theme> <FILE>...
+
+[mFor more information, try '[22;1m--help[22m'.
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:32 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache[39m [36m--build
+[m]133;C\[22;1;31merror:[22;39m unexpected argument '[33m--build[39m' found
+
+[m  [32mtip:[39m to pass '[33m--build[39m' as a value, use '[32m-- --build[39m'
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [22;1m--force-colorization[22m [22;1m--style[22m <components> [22;1m--theme[22m <theme> <FILE>...
+
+[mFor more information, try '[22;1m--help[22m'.
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:33 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mbat[39m [36mcache[39m [36m--init
+[m  [7m^C
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:33 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache[39m [36m--init
+
+[m]133;C\[22;1;31merror:[22;39m unexpected argument '[33m--init[39m' found
+
+[m  [32mtip:[39m to pass '[33m--init[39m' as a value, use '[32m-- --init[39m'
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [22;1m--force-colorization[22m [22;1m--style[22m <components> [22;1m--theme[22m <theme> <FILE>...
+
+[mFor more information, try '[22;1m--help[22m'.
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:33 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36m--version
+[m]133;C\bat 0.24.0
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:33 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36m--help
+[m]133;C\A cat(1) clone with syntax highlighting and Git integration.
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [OPTIONS] [FILE]...
+[m       [22;1mbat[22m <COMMAND>
+
+[m[22;1;4mArguments:
+[m  [FILE]...
+[m          File(s) to print / concatenate. Use a dash ('-') or no argument at all to read from
+[m          standard input.
+
+[m[22;1;4mOptions:
+[m  [22;1m-A[22m, [22;1m--show-all
+[m          Show non-printable characters like space, tab or newline. This option can also be used to
+[m          print binary files. Use '--tabs' to control the width of the tab-placeholders.
+
+[m      [22;1m--nonprintable-notation[22m <notation>
+[m          Set notation for non-printable characters.
+[m          
+[m          Possible values:
+[m            * unicode (␇, ␊, ␀, ..)
+[m            * caret   (^G, ^J, ^@, ..)
+
+[m  [22;1m-p[22m, [22;1m--plain[22m...
+[m          Only show plain style, no decorations. This is an alias for '--style=plain'. When '-p' is
+[m          used twice ('-pp'), it also disables automatic paging (alias for '--style=plain
+[m          --paging=never').
+
+[m  [22;1m-l[22m, [22;1m--language[22m <language>
+[m          Explicitly set the language for syntax highlighting. The language can be specified as a
+[m          name (like 'C++' or 'LaTeX') or possible file extension (like 'cpp', 'hpp' or 'md'). Use
+[m          '--list-languages' to show all supported language names and file extensions.
+
+[m  [22;1m-H[22m, [22;1m--highlight-line[22m <N:M>
+[m          Highlight the specified line ranges with a different background color For example:
+[m            '--highlight-line 40' highlights line 40
+[m            '--highlight-line 30:40' highlights lines 30 to 40
+[m            '--highlight-line :40' highlights lines 1 to 40
+[m            '--highlight-line 40:' highlights lines 40 to the end of the file
+[m            '--highlight-line 30:+10' highlights lines 30 to 40
+
+[m      [22;1m--file-name[22m <name>
+[m          Specify the name to display for a file. Useful when piping data to bat from STDIN when bat
+[m          does not otherwise know the filename. Note that the provided file name is also used for
+[m          syntax detection.
+
+[m  [22;1m-d[22m, [22;1m--diff
+[m          Only show lines that have been added/removed/modified with respect to the Git index. Use
+[m          --diff-context=N to control how much context you want to see.
+
+[m      [22;1m--diff-context[22m <N>
+[m          Include N lines of context around added/removed/modified lines when using '--diff'.
+
+[m      [22;1m--tabs[22m <T>
+[m          Set the tab width to T spaces. Use a width of 0 to pass tabs through directly
+
+[m      [22;1m--wrap[22m <mode>
+[m          Specify the text-wrapping mode (*auto*, never, character). The '--terminal-width' option
+[m          can be used in addition to control the output width.
+
+[m  [22;1m-S[22m, [22;1m--chop-long-lines
+[m          Truncate all lines longer than screen width. Alias for '--wrap=never'.
+
+[m      [22;1m--terminal-width[22m <width>
+[m          Explicitly set the width of the terminal instead of determining it automatically. If
+[m          prefixed with '+' or '-', the value will be treated as an offset to the actual terminal
+[m          width. See also: '--wrap'.
+
+[m  [22;1m-n[22m, [22;1m--number
+[m          Only show line numbers, no other decorations. This is an alias for '--style=numbers'
+
+[m      [22;1m--color[22m <when>
+[m          Specify when to use colored output. The automatic mode only enables colors if an
+[m          interactive terminal is detected - colors are automatically disabled if the output goes to
+[m          a pipe.
+[m          Possible values: *auto*, never, always.
+
+[m      [22;1m--italic-text[22m <when>
+[m          Specify when to use ANSI sequences for italic text in the output. Possible values: always,
+[m          *never*.
+
+[m      [22;1m--decorations[22m <when>
+[m          Specify when to use the decorations that have been specified via '--style'. The automatic
+[m          mode only enables decorations if an interactive terminal is detected. Possible values:
+[m          *auto*, never, always.
+
+[m  [22;1m-f[22m, [22;1m--force-colorization
+[m          Alias for '--decorations=always --color=always'. This is useful if the output of bat is
+[m          piped to another program, but you want to keep the colorization/decorations.
+
+[m      [22;1m--paging[22m <when>
+[m          Specify when to use the pager. To disable the pager, use --paging=never' or its
+[m          alias,'-P'. To disable the pager permanently, set BAT_PAGING to 'never'. To control which
+[m          pager is used, see the '--pager' option. Possible values: *auto*, never, always.
+
+[m      [22;1m--pager[22m <command>
+[m          Determine which pager is used. This option will override the PAGER and BAT_PAGER
+[m          environment variables. The default pager is 'less'. To control when the pager is used, see
+[m          the '--paging' option. Example: '--pager "less -RF"'.
+
+[m  [22;1m-m[22m, [22;1m--map-syntax[22m <glob:syntax>
+[m          Map a glob pattern to an existing syntax name. The glob pattern is matched on the full
+[m          path and the filename. For example, to highlight *.build files with the Python syntax, use
+[m          -m '*.build:Python'. To highlight files named '.myignore' with the Git Ignore syntax, use
+[m          -m '.myignore:Git Ignore'. Note that the right-hand side is the *name* of the syntax, not
+[m          a file extension.
+
+[m      [22;1m--ignored-suffix[22m <ignored-suffix>
+[m          Ignore extension. For example:
+[m            'bat --ignored-suffix ".dev" my_file.json.dev' will use JSON syntax, and ignore '.dev'
+
+[m      [22;1m--theme[22m <theme>
+[m          Set the theme for syntax highlighting. Use '--list-themes' to see all available themes. To
+[m          set a default theme, add the '--theme="..."' option to the configuration file or export
+[m          the BAT_THEME environment variable (e.g.: export BAT_THEME="...").
+
+[m      [22;1m--list-themes
+[m          Display a list of supported themes for syntax highlighting.
+
+[m      [22;1m--style[22m <components>
+[m          Configure which elements (line numbers, file headers, grid borders, Git modifications, ..)
+[m          to display in addition to the file contents. The argument is a comma-separated list of
+[m          components to display (e.g. 'numbers,changes,grid') or a pre-defined style ('full'). To
+[m          set a default style, add the '--style=".."' option to the configuration file or export the
+[m          BAT_STYLE environment variable (e.g.: export BAT_STYLE="..").
+[m          
+[m          Possible values:
+[m          
+[m            * default: enables recommended style components (default).
+[m            * full: enables all available components.
+[m            * auto: same as 'default', unless the output is piped.
+[m            * plain: disables all available components.
+[m            * changes: show Git modification markers.
+[m            * header: alias for 'header-filename'.
+[m            * header-filename: show filenames before the content.
+[m            * header-filesize: show file sizes before the content.
+[m            * grid: vertical/horizontal lines to separate side bar
+[m                    and the header from the content.
+[m            * rule: horizontal lines to delimit files.
+[m            * numbers: show line numbers in the side bar.
+[m            * snip: draw separation lines between distinct line ranges.
+
+[m  [22;1m-r[22m, [22;1m--line-range[22m <N:M>
+[m          Only print the specified range of lines for each file. For example:
+[m            '--line-range 30:40' prints lines 30 to 40
+[m            '--line-range :40' prints lines 1 to 40
+[m            '--line-range 40:' prints lines 40 to the end of the file
+[m            '--line-range 40' only prints line 40
+[m            '--line-range 30:+10' prints lines 30 to 40
+
+[m  [22;1m-L[22m, [22;1m--list-languages
+[m          Display a list of supported languages for syntax highlighting.
+
+[m  [22;1m-u[22m, [22;1m--unbuffered
+[m          This option exists for POSIX-compliance reasons ('u' is for 'unbuffered'). The output is
+[m          always unbuffered - this option is simply ignored.
+
+[m      [22;1m--diagnostic
+[m          Show diagnostic information for bug reports.
+
+[m      [22;1m--acknowledgements
+[m          Show acknowledgements.
+
+[m  [22;1m-h[22m, [22;1m--help
+[m          Print help (see a summary with '-h')
+
+[m  [22;1m-V[22m, [22;1m--version
+[m          Print version
+
+[mYou can use 'bat cache' to customize syntaxes and themes. See 'bat cache --help' for more
+[minformation
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:34 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbat[39m [36mcache[39m [36m--help
+
+[m]133;C\A cat(1) clone with syntax highlighting and Git integration.
+
+[m[22;1;4mUsage:[22;24m [22;1mbat[22m [OPTIONS] [FILE]...
+[m       [22;1mbat[22m <COMMAND>
+
+[m[22;1;4mArguments:
+[m  [FILE]...
+[m          File(s) to print / concatenate. Use a dash ('-') or no argument at all to read from
+[m          standard input.
+
+[m[22;1;4mOptions:
+[m  [22;1m-A[22m, [22;1m--show-all
+[m          Show non-printable characters like space, tab or newline. This option can also be used to
+[m          print binary files. Use '--tabs' to control the width of the tab-placeholders.
+
+[m      [22;1m--nonprintable-notation[22m <notation>
+[m          Set notation for non-printable characters.
+[m          
+[m          Possible values:
+[m            * unicode (␇, ␊, ␀, ..)
+[m            * caret   (^G, ^J, ^@, ..)
+
+[m  [22;1m-p[22m, [22;1m--plain[22m...
+[m          Only show plain style, no decorations. This is an alias for '--style=plain'. When '-p' is
+[m          used twice ('-pp'), it also disables automatic paging (alias for '--style=plain
+[m          --paging=never').
+
+[m  [22;1m-l[22m, [22;1m--language[22m <language>
+[m          Explicitly set the language for syntax highlighting. The language can be specified as a
+[m          name (like 'C++' or 'LaTeX') or possible file extension (like 'cpp', 'hpp' or 'md'). Use
+[m          '--list-languages' to show all supported language names and file extensions.
+
+[m  [22;1m-H[22m, [22;1m--highlight-line[22m <N:M>
+[m          Highlight the specified line ranges with a different background color For example:
+[m            '--highlight-line 40' highlights line 40
+[m            '--highlight-line 30:40' highlights lines 30 to 40
+[m            '--highlight-line :40' highlights lines 1 to 40
+[m            '--highlight-line 40:' highlights lines 40 to the end of the file
+[m            '--highlight-line 30:+10' highlights lines 30 to 40
+
+[m      [22;1m--file-name[22m <name>
+[m          Specify the name to display for a file. Useful when piping data to bat from STDIN when bat
+[m          does not otherwise know the filename. Note that the provided file name is also used for
+[m          syntax detection.
+
+[m  [22;1m-d[22m, [22;1m--diff
+[m          Only show lines that have been added/removed/modified with respect to the Git index. Use
+[m          --diff-context=N to control how much context you want to see.
+
+[m      [22;1m--diff-context[22m <N>
+[m          Include N lines of context around added/removed/modified lines when using '--diff'.
+
+[m      [22;1m--tabs[22m <T>
+[m          Set the tab width to T spaces. Use a width of 0 to pass tabs through directly
+
+[m      [22;1m--wrap[22m <mode>
+[m          Specify the text-wrapping mode (*auto*, never, character). The '--terminal-width' option
+[m          can be used in addition to control the output width.
+
+[m  [22;1m-S[22m, [22;1m--chop-long-lines
+[m          Truncate all lines longer than screen width. Alias for '--wrap=never'.
+
+[m      [22;1m--terminal-width[22m <width>
+[m          Explicitly set the width of the terminal instead of determining it automatically. If
+[m          prefixed with '+' or '-', the value will be treated as an offset to the actual terminal
+[m          width. See also: '--wrap'.
+
+[m  [22;1m-n[22m, [22;1m--number
+[m          Only show line numbers, no other decorations. This is an alias for '--style=numbers'
+
+[m      [22;1m--color[22m <when>
+[m          Specify when to use colored output. The automatic mode only enables colors if an
+[m          interactive terminal is detected - colors are automatically disabled if the output goes to
+[m          a pipe.
+[m          Possible values: *auto*, never, always.
+
+[m      [22;1m--italic-text[22m <when>
+[m          Specify when to use ANSI sequences for italic text in the output. Possible values: always,
+[m          *never*.
+
+[m      [22;1m--decorations[22m <when>
+[m          Specify when to use the decorations that have been specified via '--style'. The automatic
+[m          mode only enables decorations if an interactive terminal is detected. Possible values:
+[m          *auto*, never, always.
+
+[m  [22;1m-f[22m, [22;1m--force-colorization
+[m          Alias for '--decorations=always --color=always'. This is useful if the output of bat is
+[m          piped to another program, but you want to keep the colorization/decorations.
+
+[m      [22;1m--paging[22m <when>
+[m          Specify when to use the pager. To disable the pager, use --paging=never' or its
+[m          alias,'-P'. To disable the pager permanently, set BAT_PAGING to 'never'. To control which
+[m          pager is used, see the '--pager' option. Possible values: *auto*, never, always.
+
+[m      [22;1m--pager[22m <command>
+[m          Determine which pager is used. This option will override the PAGER and BAT_PAGER
+[m          environment variables. The default pager is 'less'. To control when the pager is used, see
+[m          the '--paging' option. Example: '--pager "less -RF"'.
+
+[m  [22;1m-m[22m, [22;1m--map-syntax[22m <glob:syntax>
+[m          Map a glob pattern to an existing syntax name. The glob pattern is matched on the full
+[m          path and the filename. For example, to highlight *.build files with the Python syntax, use
+[m          -m '*.build:Python'. To highlight files named '.myignore' with the Git Ignore syntax, use
+[m          -m '.myignore:Git Ignore'. Note that the right-hand side is the *name* of the syntax, not
+[m          a file extension.
+
+[m      [22;1m--ignored-suffix[22m <ignored-suffix>
+[m          Ignore extension. For example:
+[m            'bat --ignored-suffix ".dev" my_file.json.dev' will use JSON syntax, and ignore '.dev'
+
+[m      [22;1m--theme[22m <theme>
+[m          Set the theme for syntax highlighting. Use '--list-themes' to see all available themes. To
+[m          set a default theme, add the '--theme="..."' option to the configuration file or export
+[m          the BAT_THEME environment variable (e.g.: export BAT_THEME="...").
+
+[m      [22;1m--list-themes
+[m          Display a list of supported themes for syntax highlighting.
+
+[m      [22;1m--style[22m <components>
+[m          Configure which elements (line numbers, file headers, grid borders, Git modifications, ..)
+[m          to display in addition to the file contents. The argument is a comma-separated list of
+[m          components to display (e.g. 'numbers,changes,grid') or a pre-defined style ('full'). To
+[m          set a default style, add the '--style=".."' option to the configuration file or export the
+[m          BAT_STYLE environment variable (e.g.: export BAT_STYLE="..").
+[m          
+[m          Possible values:
+[m          
+[m            * default: enables recommended style components (default).
+[m            * full: enables all available components.
+[m            * auto: same as 'default', unless the output is piped.
+[m            * plain: disables all available components.
+[m            * changes: show Git modification markers.
+[m            * header: alias for 'header-filename'.
+[m            * header-filename: show filenames before the content.
+[m            * header-filesize: show file sizes before the content.
+[m            * grid: vertical/horizontal lines to separate side bar
+[m                    and the header from the content.
+[m            * rule: horizontal lines to delimit files.
+[m            * numbers: show line numbers in the side bar.
+[m            * snip: draw separation lines between distinct line ranges.
+
+[m  [22;1m-r[22m, [22;1m--line-range[22m <N:M>
+[m          Only print the specified range of lines for each file. For example:
+[m            '--line-range 30:40' prints lines 30 to 40
+[m            '--line-range :40' prints lines 1 to 40
+[m            '--line-range 40:' prints lines 40 to the end of the file
+[m            '--line-range 40' only prints line 40
+[m            '--line-range 30:+10' prints lines 30 to 40
+
+[m  [22;1m-L[22m, [22;1m--list-languages
+[m          Display a list of supported languages for syntax highlighting.
+
+[m  [22;1m-u[22m, [22;1m--unbuffered
+[m          This option exists for POSIX-compliance reasons ('u' is for 'unbuffered'). The output is
+[m          always unbuffered - this option is simply ignored.
+
+[m      [22;1m--diagnostic
+[m          Show diagnostic information for bug reports.
+
+[m      [22;1m--acknowledgements
+[m          Show acknowledgements.
+
+[m  [22;1m-h[22m, [22;1m--help
+[m          Print help (see a summary with '-h')
+
+[m  [22;1m-V[22m, [22;1m--version
+[m          Print version
+
+[mYou can use 'bat cache' to customize syntaxes and themes. See 'bat cache --help' for more
+[minformation
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:34 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mtldr[39m [36mbat
+[m]133;C\
+[m  Print and concatenate files.
+[m  A `cat` clone with syntax highlighting and Git integration.
+[m  More information: <https://github.com/sharkdp/bat>.
+
+[m  [32mPretty print the contents of one or more files to `stdout`:
+
+[m[36m      bat [4mpath/to/file1 path/to/file2 ...
+
+[m  [32mConcatenate several files into the target file:
+
+[m[36m      bat [4mpath/to/file1 path/to/file2 ...[24m > [4mpath/to/target_file
+
+[m  [32mRemove decorations and disable paging (`--style plain` can be replaced with `-p`, or both options with `-pp`):
+
+[m[36m      bat --style plain --pager never [4mpath/to/file
+
+[m  [32mHighlight a specific line or a range of lines with a different background color:
+
+[m[36m      bat [4m--highlight-line|-H[24m [4m10|5:10|:10|10:|10:+5[24m [4mpath/to/file
+
+[m  [32mShow non-printable characters like space, tab or newline:
+
+[m[36m      bat [4m--show-all|-A[24m [4mpath/to/file
+
+[m  [32mRemove all decorations except line numbers in the output:
+
+[m[36m      bat [4m--number|-n[24m [4mpath/to/file
+
+[m  [32mSyntax highlight a JSON file by explicitly setting the language:
+
+[m[36m      bat [4m--language|-l[24m json [4mpath/to/file.json
+
+[m  [32mDisplay all supported languages:
+
+[m[36m      bat [4m--list-languages|-L
+
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:34 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mman[39m [36mbat
+[m]133;A\
+
+[m[38:2:163:174:210m[38:2:9:12:12;48:2:163:174:210m afif [38:2:163:174:210;48:2:47:92:181m[38:2:227:229:229m …/.config/bat/themes [38:2:47:92:181;48:2:118:159:240m[38:2:118:159:240;48:2:57:66:96m[38:2:57:66:96;48:2:33:39:54m[38:2:33:39:54;48:2:29:34:48m[38:2:160:169:203m  14:34 [38:2:29:34:48;49m 
+[m[22;1;38:2:57:66:96m[22m [34mbash
+[m]133;C\afif@afif-OSTW:~/.config/bat/themes> bat cache --build
+[mNo syntaxes were found in '/home/afif/.config/bat/syntaxes', using the default set.
+[mWriting theme set to /home/afif/.cache/bat/themes.bin ... okay
+[mWriting syntax set to /home/afif/.cache/bat/syntaxes.bin ... okay
+[mWriting metadata to folder /home/afif/.cache/bat ... okay
+[mafif@afif-OSTW:~/.config/bat/themes> bat --list-themes
+[mTheme: [22;1m1337
+
+[m[38:2:248:248:242m  [38:2:109:109:109m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:251:223:181mfn[38:2:248:248:242m [38:2:140:218:255mprint_square[38:2:248:248:242m([38:2:252:147:84mnum[38:2:248:248:242m: [38:2:251:223:181mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:251:223:181mlet[38:2:248:248:242m result [38:2:255:94:94m=[38:2:248:248:242m [38:2:251:223:181mf64[38:2:248:248:242m::powf(num, [38:2:253:176:130m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:255:255:255m"[38:2:251:227:191mThe square of [38:2:253:176:130m{:.2}[38:2:251:227:191m is [38:2:253:176:130m{:.2}[38:2:251:227:191m.[38:2:255:255:255m"[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mCatppuccin Frappe
+
+[m[38:2:198:208:245m  [38:2:115:121:148m// Output the square of a number.
+[m[38:2:198:208:245m  [38:2:202:158:230mfn[38:2:198:208:245m [38:2:140:170:238mprint_square[38:2:148:156:187m([38:2:234:153:156mnum[38:2:148:156:187m:[38:2:234:153:156m [38:2:202:158:230mf64[38:2:148:156:187m)[38:2:198:208:245m [38:2:148:156:187m{
+[m[38:2:198:208:245m      [38:2:202:158:230mlet[38:2:198:208:245m result [38:2:129:200:190m=[38:2:198:208:245m [38:2:202:158:230mf64[38:2:129:200:190m::[38:2:198:208:245mpowf[38:2:148:156:187m([38:2:198:208:245mnum[38:2:148:156:187m,[38:2:198:208:245m [38:2:239:159:118m2.0[38:2:148:156:187m);
+[m[38:2:198:208:245m      [38:2:140:170:238mprintln![38:2:148:156:187m([38:2:166:209:137m"The square of [38:2:244:184:228m{:.2}[38:2:166:209:137m is [38:2:244:184:228m{:.2}[38:2:166:209:137m."[38:2:148:156:187m,[38:2:198:208:245m num[38:2:148:156:187m,[38:2:198:208:245m result[38:2:148:156:187m);
+[m[38:2:198:208:245m  [38:2:148:156:187m}
+
+[mTheme: [22;1mCatppuccin Latte
+
+[m[38:2:76:79:105m  [38:2:156:160:176m// Output the square of a number.
+[m[38:2:76:79:105m  [38:2:136:57:239mfn[38:2:76:79:105m [38:2:30:102:245mprint_square[38:2:124:127:147m([38:2:230:69:83mnum[38:2:124:127:147m:[38:2:230:69:83m [38:2:136:57:239mf64[38:2:124:127:147m)[38:2:76:79:105m [38:2:124:127:147m{
+[m[38:2:76:79:105m      [38:2:136:57:239mlet[38:2:76:79:105m result [38:2:23:146:153m=[38:2:76:79:105m [38:2:136:57:239mf64[38:2:23:146:153m::[38:2:76:79:105mpowf[38:2:124:127:147m([38:2:76:79:105mnum[38:2:124:127:147m,[38:2:76:79:105m [38:2:254:100:11m2.0[38:2:124:127:147m);
+[m[38:2:76:79:105m      [38:2:30:102:245mprintln![38:2:124:127:147m([38:2:64:160:43m"The square of [38:2:234:118:203m{:.2}[38:2:64:160:43m is [38:2:234:118:203m{:.2}[38:2:64:160:43m."[38:2:124:127:147m,[38:2:76:79:105m num[38:2:124:127:147m,[38:2:76:79:105m result[38:2:124:127:147m);
+[m[38:2:76:79:105m  [38:2:124:127:147m}
+
+[mTheme: [22;1mCatppuccin Macchiato
+
+[m[38:2:202:211:245m  [38:2:110:115:141m// Output the square of a number.
+[m[38:2:202:211:245m  [38:2:198:160:246mfn[38:2:202:211:245m [38:2:138:173:244mprint_square[38:2:147:154:183m([38:2:238:153:160mnum[38:2:147:154:183m:[38:2:238:153:160m [38:2:198:160:246mf64[38:2:147:154:183m)[38:2:202:211:245m [38:2:147:154:183m{
+[m[38:2:202:211:245m      [38:2:198:160:246mlet[38:2:202:211:245m result [38:2:139:213:202m=[38:2:202:211:245m [38:2:198:160:246mf64[38:2:139:213:202m::[38:2:202:211:245mpowf[38:2:147:154:183m([38:2:202:211:245mnum[38:2:147:154:183m,[38:2:202:211:245m [38:2:245:169:127m2.0[38:2:147:154:183m);
+[m[38:2:202:211:245m      [38:2:138:173:244mprintln![38:2:147:154:183m([38:2:166:218:149m"The square of [38:2:245:189:230m{:.2}[38:2:166:218:149m is [38:2:245:189:230m{:.2}[38:2:166:218:149m."[38:2:147:154:183m,[38:2:202:211:245m num[38:2:147:154:183m,[38:2:202:211:245m result[38:2:147:154:183m);
+[m[38:2:202:211:245m  [38:2:147:154:183m}
+
+[mTheme: [22;1mCatppuccin Mocha
+
+[m[38:2:205:214:244m  [38:2:108:112:134m// Output the square of a number.
+[m[38:2:205:214:244m  [38:2:203:166:247mfn[38:2:205:214:244m [38:2:137:180:250mprint_square[38:2:147:153:178m([38:2:235:160:172mnum[38:2:147:153:178m:[38:2:235:160:172m [38:2:203:166:247mf64[38:2:147:153:178m)[38:2:205:214:244m [38:2:147:153:178m{
+[m[38:2:205:214:244m      [38:2:203:166:247mlet[38:2:205:214:244m result [38:2:148:226:213m=[38:2:205:214:244m [38:2:203:166:247mf64[38:2:148:226:213m::[38:2:205:214:244mpowf[38:2:147:153:178m([38:2:205:214:244mnum[38:2:147:153:178m,[38:2:205:214:244m [38:2:250:179:135m2.0[38:2:147:153:178m);
+[m[38:2:205:214:244m      [38:2:137:180:250mprintln![38:2:147:153:178m([38:2:166:227:161m"The square of [38:2:245:194:231m{:.2}[38:2:166:227:161m is [38:2:245:194:231m{:.2}[38:2:166:227:161m."[38:2:147:153:178m,[38:2:205:214:244m num[38:2:147:153:178m,[38:2:205:214:244m result[38:2:147:153:178m);
+[m[38:2:205:214:244m  [38:2:147:153:178m}
+
+[mTheme: [22;1mColdark-Cold
+
+[m[38:2:17:27:39m  [38:2:60:82:109m// Output the square of a number.
+[m[38:2:17:27:39m  [38:2:160:73:0mfn[38:2:17:27:39m [38:2:124:0:170mprint_square[38:2:17:27:39m([38:2:0:109:109mnum[38:2:17:27:39m: [38:2:160:73:0mf64[38:2:17:27:39m) {
+[m[38:2:17:27:39m      [38:2:160:73:0mlet[38:2:17:27:39m result [38:2:160:73:0m=[38:2:17:27:39m [38:2:160:73:0mf64[38:2:17:27:39m::powf(num, [38:2:117:95:0m2.0[38:2:17:27:39m);
+[m[38:2:17:27:39m      println!([38:2:17:107:0m"The square of [38:2:0:90:142m{:.2}[38:2:17:107:0m is [38:2:0:90:142m{:.2}[38:2:17:107:0m."[38:2:17:27:39m, num, result);
+[m[38:2:17:27:39m  }
+
+[mTheme: [22;1mColdark-Dark
+
+[m[38:2:227:234:242m  [38:2:141:161:185m// Output the square of a number.
+[m[38:2:227:234:242m  [38:2:233:174:126mfn[38:2:227:234:242m [38:2:198:153:227mprint_square[38:2:227:234:242m([38:2:102:204:204mnum[38:2:227:234:242m: [38:2:233:174:126mf64[38:2:227:234:242m) {
+[m[38:2:227:234:242m      [38:2:233:174:126mlet[38:2:227:234:242m result [38:2:233:174:126m=[38:2:227:234:242m [38:2:233:174:126mf64[38:2:227:234:242m::powf(num, [38:2:230:211:122m2.0[38:2:227:234:242m);
+[m[38:2:227:234:242m      println!([38:2:145:208:118m"The square of [38:2:108:184:230m{:.2}[38:2:145:208:118m is [38:2:108:184:230m{:.2}[38:2:145:208:118m."[38:2:227:234:242m, num, result);
+[m[38:2:227:234:242m  }
+
+[mTheme: [22;1mDarkNeon
+
+[m[38:2:255:255:255m  [38:2:124:124:124m// Output the square of a number.
+[m[38:2:255:255:255m  [38:2:207:203:144mfn[38:2:255:255:255m [38:2:248:248:248mprint_square[38:2:255:255:255m([38:2:198:197:254mnum[38:2:255:255:255m: [38:2:207:203:144mf64[38:2:255:255:255m) {
+[m[38:2:255:255:255m      [38:2:207:203:144mlet[38:2:255:255:255m result [38:2:170:170:170m=[38:2:255:255:255m [38:2:207:203:144mf64[38:2:255:255:255m::powf(num, [22;1;38:2:255:115:253m2.0[22;38:2:255:255:255m);
+[m[38:2:255:255:255m      [38:2:255:255:182mprintln![38:2:255:255:255m([38:2:204:255:102m"The square of [38:2:0:160:160m{:.2}[38:2:204:255:102m is [38:2:0:160:160m{:.2}[38:2:204:255:102m."[38:2:255:255:255m, num, result);
+[m[38:2:255:255:255m  }
+
+[mTheme: [22;1mDracula
+
+[m[38:2:248:248:242m  [38:2:98:114:164m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:139:233:253mfn[38:2:248:248:242m [38:2:80:250:123mprint_square[38:2:248:248:242m([38:2:255:184:108mnum[38:2:248:248:242m: [38:2:139:233:253mf64[38:2:248:248:242m) [38:2:255:255:255m{
+[m[38:2:248:248:242m      [38:2:139:233:253mlet[38:2:248:248:242m result [38:2:255:121:198m=[38:2:248:248:242m [38:2:139:233:253mf64[38:2:255:121:198;4m::[38:2:248:248:242;24mpowf(num, [38:2:189:147:249m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:241:250:140m"The square of [38:2:189:147:249m{:.2}[38:2:241:250:140m is [38:2:189:147:249m{:.2}[38:2:241:250:140m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  [38:2:255:255:255m}
+
+[mTheme: [22;1mGitHub
+
+[m[38:2:51:51:51m  [38:2:150:152:150m// Output the square of a number.
+[m[38:2:51:51:51m  [38:2:167:29:93mfn[38:2:51:51:51m [38:2:121:93:163mprint_square[38:2:51:51:51m([38:2:0:134:179mnum[38:2:51:51:51m: [38:2:167:29:93mf64[38:2:51:51:51m) {
+[m[38:2:51:51:51m      [38:2:167:29:93mlet[38:2:51:51:51m result [38:2:167:29:93m=[38:2:51:51:51m [38:2:167:29:93mf64[38:2:51:51:51m::powf(num, [38:2:0:134:179m2.0[38:2:51:51:51m);
+[m[38:2:51:51:51m      println!([38:2:24:54:145m"The square of [38:2:0:134:179m{:.2}[38:2:24:54:145m is [38:2:0:134:179m{:.2}[38:2:24:54:145m."[38:2:51:51:51m, num, result);
+[m[38:2:51:51:51m  }
+
+[mTheme: [22;1mMonokai Extended
+
+[m[38:2:248:248:242m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:102:217:239mfn[38:2:248:248:242m [38:2:166:226:46mprint_square[38:2:248:248:242m([38:2:253:151:31mnum[38:2:248:248:242m: [38:2:102:217:239mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:102:217:239mlet[38:2:248:248:242m result [38:2:249:38:114m=[38:2:248:248:242m [38:2:102:217:239mf64[38:2:248:248:242m::powf(num, [38:2:190:132:255m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:230:219:116m"The square of [38:2:190:132:255m{:.2}[38:2:230:219:116m is [38:2:190:132:255m{:.2}[38:2:230:219:116m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mMonokai Extended Bright
+
+[m[38:2:248:248:242m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:102:217:239mfn[38:2:248:248:242m [38:2:166:226:46mprint_square[38:2:248:248:242m([38:2:253:151:31mnum[38:2:248:248:242m: [38:2:102:217:239mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:102:217:239mlet[38:2:248:248:242m result [38:2:249:38:114m=[38:2:248:248:242m [38:2:102:217:239mf64[38:2:248:248:242m::powf(num, [38:2:174:129:255m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:230:219:116m"The square of [38:2:174:129:255m{:.2}[38:2:230:219:116m is [38:2:174:129:255m{:.2}[38:2:230:219:116m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mMonokai Extended Light
+
+[m[38:2:73:72:62m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:73:72:62m  [38:2:0:137:179mfn[38:2:73:72:62m [38:2:103:156:0mprint_square[38:2:73:72:62m([38:2:207:112:0mnum[38:2:73:72:62m: [38:2:0:137:179mf64[38:2:73:72:62m) {
+[m[38:2:73:72:62m      [38:2:0:137:179mlet[38:2:73:72:62m result [38:2:249:0:90m=[38:2:73:72:62m [38:2:0:137:179mf64[38:2:73:72:62m::powf(num, [38:2:104:77:153m2.0[38:2:73:72:62m);
+[m[38:2:73:72:62m      println!([38:2:153:143:47m"The square of [38:2:104:77:153m{:.2}[38:2:153:143:47m is [38:2:104:77:153m{:.2}[38:2:153:143:47m."[38:2:73:72:62m, num, result);
+[m[38:2:73:72:62m  }
+
+[mTheme: [22;1mMonokai Extended Origin
+
+[m[38:2:248:248:242m  [38:2:117:113:94m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:102:217:239mfn[38:2:248:248:242m [38:2:166:226:46mprint_square[38:2:248:248:242m([38:2:253:151:31mnum[38:2:248:248:242m: [38:2:102:217:239mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:102:217:239mlet[38:2:248:248:242m result [38:2:249:38:114m=[38:2:248:248:242m [38:2:102:217:239mf64[38:2:248:248:242m::powf(num, [38:2:174:129:255m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:230:219:116m"The square of [38:2:174:129:255m{:.2}[38:2:230:219:116m is [38:2:174:129:255m{:.2}[38:2:230:219:116m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mNord
+
+[m[38:2:216:222:233m  [38:2:97:110:136m// Output the square of a number.
+[m[38:2:216:222:233m  [38:2:129:161:193mfn[38:2:216:222:233m [38:2:136:192:208mprint_square[38:2:216:222:233m(num[38:2:236:239:244m:[38:2:216:222:233m [38:2:129:161:193mf64[38:2:216:222:233m) {
+[m[38:2:216:222:233m      [38:2:129:161:193mlet[38:2:216:222:233m result [38:2:129:161:193m=[38:2:216:222:233m [38:2:129:161:193mf64::[38:2:216:222:233mpowf(num[38:2:236:239:244m,[38:2:216:222:233m [38:2:180:142:173m2.0[38:2:216:222:233m)[38:2:236:239:244m;
+[m[38:2:216:222:233m      println!([38:2:163:190:140m"The square of [38:2:235:203:139m{:.2}[38:2:163:190:140m is [38:2:235:203:139m{:.2}[38:2:163:190:140m."[38:2:236:239:244m,[38:2:216:222:233m num[38:2:236:239:244m,[38:2:216:222:233m result)[38:2:236:239:244m;
+[m[38:2:216:222:233m  }
+
+[mTheme: [22;1mOneHalfDark
+
+[m[38:2:220:223:228m  [38:2:92:99:112m// Output the square of a number.
+[m[38:2:220:223:228m  [38:2:198:120:221mfn[38:2:220:223:228m [38:2:97:175:239mprint_square[38:2:220:223:228m([38:2:224:108:117mnum[38:2:220:223:228m: [38:2:198:120:221mf64[38:2:220:223:228m) {
+[m[38:2:220:223:228m      [38:2:198:120:221mlet[38:2:220:223:228m result [38:2:198:120:221m=[38:2:220:223:228m [38:2:198:120:221mf64[38:2:220:223:228m::powf(num, [38:2:229:192:123m2.0[38:2:220:223:228m);
+[m[38:2:220:223:228m      println!([38:2:152:195:121m"The square of [38:2:229:192:123m{:.2}[38:2:152:195:121m is [38:2:229:192:123m{:.2}[38:2:152:195:121m."[38:2:220:223:228m, num, result);
+[m[38:2:220:223:228m  }
+
+[mTheme: [22;1mOneHalfLight
+
+[m[38:2:56:58:66m  [38:2:160:161:167m// Output the square of a number.
+[m[38:2:56:58:66m  [38:2:166:38:164mfn[38:2:56:58:66m [38:2:1:132:188mprint_square[38:2:56:58:66m([38:2:228:86:73mnum[38:2:56:58:66m: [38:2:166:38:164mf64[38:2:56:58:66m) {
+[m[38:2:56:58:66m      [38:2:166:38:164mlet[38:2:56:58:66m result [38:2:166:38:164m=[38:2:56:58:66m [38:2:166:38:164mf64[38:2:56:58:66m::powf(num, [38:2:193:132:1m2.0[38:2:56:58:66m);
+[m[38:2:56:58:66m      println!([38:2:80:161:79m"The square of [38:2:193:132:1m{:.2}[38:2:80:161:79m is [38:2:193:132:1m{:.2}[38:2:80:161:79m."[38:2:56:58:66m, num, result);
+[m[38:2:56:58:66m  }
+
+[mTheme: [22;1mSolarized (dark)
+
+[m[38:2:131:148:150m  [38:2:88:110:117m// Output the square of a number.
+[m[38:2:131:148:150m  [38:2:38:139:210mfn[38:2:131:148:150m [38:2:181:137:0mprint_square[38:2:101:123:131m([38:2:38:139:210mnum[38:2:131:148:150m: [38:2:38:139:210mf64[38:2:101:123:131m)[38:2:131:148:150m [38:2:101:123:131m{
+[m[38:2:131:148:150m      [38:2:38:139:210mlet[38:2:131:148:150m result [38:2:101:123:131m=[38:2:131:148:150m [38:2:38:139:210mf64[38:2:131:148:150m::powf[38:2:101:123:131m([38:2:131:148:150mnum, [38:2:108:113:196m2.0[38:2:101:123:131m)[38:2:131:148:150m;
+[m[38:2:131:148:150m      [38:2:133:153:0mprintln![38:2:101:123:131m([38:2:131:148:150m"[38:2:42:161:152mThe square of [38:2:203:75:22m{:.2}[38:2:42:161:152m is [38:2:203:75:22m{:.2}[38:2:42:161:152m.[38:2:131:148:150m", num, result[38:2:101:123:131m)[38:2:131:148:150m;
+[m[38:2:131:148:150m  [38:2:101:123:131m}
+
+[mTheme: [22;1mSolarized (light)
+
+[m[38:2:101:123:131m  [38:2:147:161:161m// Output the square of a number.
+[m[38:2:101:123:131m  [38:2:38:139:210mfn[38:2:101:123:131m [38:2:181:137:0mprint_square[38:2:101:123:131m([38:2:38:139:210mnum[38:2:101:123:131m: [38:2:38:139:210mf64[38:2:101:123:131m) {
+[m[38:2:101:123:131m      [38:2:38:139:210mlet[38:2:101:123:131m result = [38:2:38:139:210mf64[38:2:101:123:131m::powf(num, [38:2:108:113:196m2.0[38:2:101:123:131m);
+[m[38:2:101:123:131m      [38:2:133:153:0mprintln![38:2:101:123:131m([38:2:131:148:150m"[38:2:42:161:152mThe square of [38:2:203:75:22m{:.2}[38:2:42:161:152m is [38:2:203:75:22m{:.2}[38:2:42:161:152m.[38:2:131:148:150m"[38:2:101:123:131m, num, result);
+[m[38:2:101:123:131m  }
+
+[mTheme: [22;1mSublime Snazzy
+
+[m[38:2:248:248:242m  [38:2:104:104:104m// Output the square of a number.
+[m[38:2:248:248:242m  [38:2:154:237:254mfn[38:2:248:248:242m [38:2:154:237:254mprint_square[38:2:248:248:242m([38:2:255:106:193mnum[38:2:248:248:242m: [38:2:154:237:254mf64[38:2:248:248:242m) {
+[m[38:2:248:248:242m      [38:2:154:237:254mlet[38:2:248:248:242m result [38:2:255:92:87m=[38:2:248:248:242m [38:2:154:237:254mf64[38:2:248:248:242m::powf(num, [38:2:241:241:240m2.0[38:2:248:248:242m);
+[m[38:2:248:248:242m      println!([38:2:243:249:157m"The square of [38:2:90:247:142m{:.2}[38:2:243:249:157m is [38:2:90:247:142m{:.2}[38:2:243:249:157m."[38:2:248:248:242m, num, result);
+[m[38:2:248:248:242m  }
+
+[mTheme: [22;1mTwoDark
+
+[m[38:2:171:178:191m  [38:2:92:99:112m// Output the square of a number.
+[m[38:2:171:178:191m  [38:2:198:120:221mfn[38:2:171:178:191m [38:2:97:175:239mprint_square[38:2:171:178:191m([38:2:224:108:117mnum[38:2:171:178:191m: [38:2:198:120:221mf64[38:2:171:178:191m) {
+[m[38:2:171:178:191m      [38:2:198:120:221mlet[38:2:171:178:191m result = [38:2:198:120:221mf64[38:2:171:178:191m::powf(num, [38:2:209:154:102m2.0[38:2:171:178:191m);
+[m[38:2:171:178:191m      println!([38:2:152:195:121m"The square of [38:2:209:154:102m{:.2}[38:2:152:195:121m is [38:2:209:154:102m{:.2}[38:2:152:195:121m."[38:2:171:178:191m, num, result);
+[m[38:2:171:178:191m  }
+
+[mTheme: [22;1mVisual Studio Dark+
+
+[m[38:2:220:220:220m  [38:2:96:139:78m// Output the square of a number.
+[m[38:2:220:220:220m  [38:2:86:156:214mfn[38:2:220:220:220m [38:2:220:220:170mprint_square[38:2:220:220:220m([38:2:156:220:254mnum[38:2:220:220:220m: [38:2:86:156:214mf64[38:2:220:220:220m) {
+[m[38:2:220:220:220m      [38:2:86:156:214mlet[38:2:220:220:220m result = [38:2:86:156:214mf64[38:2:220:220:220m::powf(num, [38:2:181:206:168m2.0[38:2:220:220:220m);
+[m[38:2:220:220:220m      println!([38:2:214:157:133m"The square of [38:2:180:206:168m{:.2}[38:2:214:157:133m is [38:2:180:206:168m{:.2}[38:2:214:157:133m."[38:2:220:220:220m, num, result);
+[m[38:2:220:220:220m  }
+
+[mTheme: [22;1mansi
+
+[m  [32m// Output the square of a number.
+[m  [35mfn[39m [34mprint_square[39m(num: [35mf64[39m) {
+[m      [35mlet[39m result [35m=[39m [35mf64[39m::powf(num, [33m2.0[39m);
+[m      println!([32m"The square of [33m{:.2}[32m is [33m{:.2}[32m."[39m, num, result);
+[m  }
+
+[mTheme: [22;1mbase16
+
+[m[37m  [90m// Output the square of a number.
+[m[37m  [35mfn[37m [34mprint_square[37m(num: [35mf64[37m) {
+[m[37m      [35mlet[37m result = [35mf64[37m::powf(num, [91m2.0[37m);
+[m[m[37m      println!("[32mThe square of [91m{:.2}[32m is [91m{:.2}[32m.[37m", num, result);
+[m[37m  }
+
+[mTheme: [22;1mbase16-256
+
+[m[37m  [90m// Output the square of a number.
+[m[37m  [35mfn[37m [34mprint_square[37m(num: [35mf64[37m) {
+[m[37m      [35mlet[37m result = [35mf64[37m::powf(num, [38:5:16m2.0[37m);
+[m[37m      println!("[32mThe square of [38:5:16m{:.2}[32m is [38:5:16m{:.2}[32m.[37m", num, result);
+[m[37m  }
+
+[mTheme: [22;1mgruvbox-dark
+
+[m[38:2:251:241:199m  [38:2:146:131:116m// Output the square of a number.
+[m[38:2:251:241:199m  [38:2:142:192:124mfn[38:2:251:241:199m [38:2:184:187:38mprint_square[38:2:251:241:199m(num: [38:2:251:73:52mf64[38:2:251:241:199m) {
+[m[38:2:251:241:199m      [38:2:251:73:52mlet[38:2:251:241:199m result [38:2:142:192:124m=[38:2:251:241:199m [38:2:251:73:52mf64[38:2:251:241:199m::powf(num, [38:2:211:134:155m2.0[38:2:251:241:199m);
+[m[38:2:251:241:199m      println!("[38:2:184:187:38mThe square of [38:2:142:192:124m{:.2}[38:2:184:187:38m is [38:2:142:192:124m{:.2}[38:2:184:187:38m.[38:2:251:241:199m", num, result);
+[m[38:2:251:241:199m  }
+
+[mTheme: [22;1mgruvbox-light
+
+[m[38:2:40:40:40m  [38:2:146:131:116m// Output the square of a number.
+[m[38:2:40:40:40m  [38:2:66:123:88mfn[38:2:40:40:40m [38:2:121:116:14mprint_square[38:2:40:40:40m(num: [38:2:157:0:6mf64[38:2:40:40:40m) {
+[m[38:2:40:40:40m      [38:2:157:0:6mlet[38:2:40:40:40m result [38:2:66:123:88m=[38:2:40:40:40m [38:2:157:0:6mf64[38:2:40:40:40m::powf(num, [38:2:143:63:113m2.0[38:2:40:40:40m);
+[m[38:2:40:40:40m      println!("[38:2:121:116:14mThe square of [38:2:66:123:88m{:.2}[38:2:121:116:14m is [38:2:66:123:88m{:.2}[38:2:121:116:14m.[38:2:40:40:40m", num, result);
+[m[38:2:40:40:40m  }
+
+[mTheme: [22;1mzenburn
+
+[m[38:2:222:222:222m  [38:2:160:207:161m//[38:2:135:174:134m Output the square of a number.
+[m[38:2:222:222:222m  [38:2:255:251:157mfn[38:2:222:222:222m [38:2:255:253:135mprint_square[38:2:222:222:222m(num: [38:2:255:251:157mf64[38:2:222:222:222m) {
+[m[38:2:222:222:222m      [38:2:255:251:157mlet[38:2:222:222:222m result [38:2:236:236:236m=[38:2:222:222:222m [38:2:255:251:157mf64[38:2:222:222:222m::powf(num, [22;1;38:2:135:214:213m2.0[22;38:2:222:222:222m);
+[m[38:2:222:222:222m      println!([38:2:214:214:214m"[38:2:214:134:134mThe square of [22;1;38:2:204:148:149m{:.2}[22;38:2:214:134:134m is [22;1;38:2:204:148:149m{:.2}[22;38:2:214:134:134m.[38:2:214:214:214m"[38:2:222:222:222m, num, result);
+[m[38:2:222:222:222m  }
+
+[mFurther themes can be installed to '/home/afif/.config/bat/themes', and are added to the cache with `bat cache --build`. For more information, see:
+
+[m  https://github.com/sharkdp/bat#adding-new-themes
+[mafif@afif-OSTW:~/.config/bat/themes> 

@@ -1,0 +1,23 @@
+starship init fish | source
+zoxide init fish | source
+if status is-interactive
+    # Commands to run in interactive sessions can go here
+fastfetch
+end
+
+export fish_greeting="Assalamu'alaikum! what "
+export BAT_THEME="Catppuccin Mocha"
+
+
+fish_add_path /home/afif/.spicetify
+alias e='eza'
+alias elat='eza -laTH'
+alias ela='eza -laH'
+alias ez='eza -imalhHM@gS --sort modified --time-style long-iso --total-size --git --git-repos --icons=always --hyperlink --color=always --color-scale'
+alias ezt='eza -imalhHM@gST --sort modified --time-style long-iso --total-size --git --git-repos --icons=always --hyperlink --color=always --color-scale'
+alias bat='bat -f --style=full --theme=TwoDark'
+alias rgf='rg -nHwpPzSa. --mmap -C 5 --heading 2>/dev/null'
+alias fdf='fd -HLapI --color=always'
+alias chm='chmod +x '
+alias py='python'
+alias zypper='sudo zypper'

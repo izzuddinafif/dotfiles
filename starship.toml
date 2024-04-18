@@ -1,0 +1,322 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+
+format = """
+
+[](fg:#000000)\
+
+$os\
+$username\
+
+[](bg:#212b63 fg:#000000)\
+
+$directory\
+
+[](fg:#212b63 bg:#394485)\
+
+$docker_context\
+
+$conda\
+
+[](fg:#394485 bg:#2f5cb5)\
+
+$git_branch\
+
+$git_status\
+
+[](fg:#2f5cb5 bg:#769ff0)\
+
+$c\
+
+$rust\
+
+$golang\
+
+$nodejs\
+
+$php\
+
+$java\
+
+$kotlin\
+
+$haskell\
+
+$python\
+
+$scala\
+
+$swift\
+
+$zig\
+
+$rlang\
+
+$perl\
+
+$ruby\
+
+$elixir\
+
+$kotlin\
+
+$dart\
+
+$julia\
+
+[](fg:#769ff0 bg:#c9d7f2)\
+
+$time\
+
+[ ](fg:#c9d7f2)\
+
+$line_break$character"""
+
+[os]
+disabled = false
+style = "bg:#000000 fg:#a3aed2"
+[os.symbols]
+Windows = "󰍲"
+Ubuntu = "󰕈"
+SUSE = ""
+Raspbian = "󰐿"
+Mint = "󰣭"
+Macos = "󰀵"
+Manjaro = ""
+Linux = "󰌽"
+Gentoo = "󰣨"
+Fedora = "󰣛"
+Alpine = ""
+Amazon = ""
+Android = ""
+Arch = "󰣇"
+Artix = "󰣇"
+CentOS = ""
+Debian = "󰣚"
+Redhat = "󱄛"
+RedHatEnterprise = "󱄛"
+Alpaquita = ""
+AlmaLinux = ""
+DragonFly = ""
+Emscripten = ""
+EndeavourOS = ""
+FreeBSD = ""
+Garuda = "󰛓"
+HardenedBSD = "󰞌"
+Illumos = "󰈸"
+Kali = ""
+Mabox = ""
+Mariner = ""
+MidnightBSD = ""
+NetBSD = ""
+NixOS = ""
+OpenBSD = "󰈺"
+openSUSE = ""
+OracleLinux = "󰌷"
+Pop = ""
+RockyLinux = ""
+Redox = "󰀘"
+Solus = "󰠳"
+Void = ""
+Unknown = ""
+
+[username]
+show_always = true
+style_user = "bg:#000000 fg:#a3aed2"
+style_root = "bg:#000000 fg:#a3aed2"
+format = '[  $user ]($style)'
+
+[directory]
+style = "fg:#e3e5e5 bg:#212b63"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"
+read_only = "󰌾"
+
+[git_branch]
+symbol = " "
+style = "bg:#394260"
+format = '[[ $symbol $branch ](fg:#212736 bg:#2f5cb5)]($style)'
+
+[git_status]
+style = "bg:#394260"
+format = '[[($all_status$ahead_behind )](fg:#212736 bg:#2f5cb5)]($style)'
+
+[nodejs]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol( $version) ](bg:#769ff0 fg:#000000)]($style)'
+
+# symbols and their configurations as requested
+[aws]
+symbol = " "
+
+[buf]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[c]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[conda]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($environment) ](fg:#212b63 bg:#394485)]($style)'
+
+[crystal]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[dart]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[docker_context]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($context) ](fg:#212b63 bg:#394485)]($style)'
+
+[elixir]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($context) ](bg:#769ff0 fg:#000000)]($style)'
+
+[elm]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($context) ](bg:#769ff0 fg:#000000)]($style)'
+
+[fennel]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($context) ](bg:#769ff0 fg:#000000)]($style)'
+
+[fossil_branch]
+symbol = " "
+
+[golang]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[guix_shell]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[haskell]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[haxe]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[hg_branch]
+symbol = " "
+
+[hostname]
+ssh_symbol = " "
+
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+[java]
+symbol = " "
+style = "fg:#000000 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[julia]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[kotlin]
+symbol = " "
+style = "bg:#394260"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+[lua]
+symbol = " "
+
+[memory_usage]
+symbol = "󰍛 "
+
+[meson]
+symbol = "󰔷 "
+
+[nim]
+symbol = "󰆥 "
+
+[nix_shell]
+symbol = " "
+
+[ocaml]
+symbol = " "
+
+[perl]
+symbol = " "
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[php]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[pijul_channel]
+symbol = " "
+
+[python]
+symbol = " "
+format = '[[ $symbol ($version) ](bg:#769ff0 fg:#000000)]($style)'
+
+[rlang]
+symbol = "󰟔 "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($context) ](bg:#769ff0 fg:#000000)]($style)'
+
+[ruby]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($context) ](bg:#769ff0 fg:#000000)]($style)'
+
+[rust]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($context) ](bg:#769ff0 fg:#000000)]($style)'
+
+[scala]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($context) ](bg:#769ff0 fg:#000000)]($style)'
+
+[swift]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($context) ](bg:#769ff0 fg:#000000)]($style)'
+
+[zig]
+symbol = " "
+style = "fg:#212736 bg:#1d2230"
+format = '[[ $symbol ($context) ](bg:#769ff0 fg:#000000)]($style)'
+
+[time]
+disabled = false
+time_format = "%R"
+style = "bg:#f0f5ff"
+format = '[[  $time ](fg:#000000 bg:#c9d7f2)]($style)'
+
+[line_break]
+disabled = false
+
+[character]
+disabled = false
+success_symbol = '[](bold fg:#a3aed2)'
+error_symbol = '[](bold fg:#394260)'
+vimcmd_symbol = '[](bold fg:#a3aed2)'
+vimcmd_replace_one_symbol = '[](bold fg:#769ff0)'
+vimcmd_replace_symbol = '[](bold fg:#769ff0)'
+vimcmd_visual_symbol = '[](bold fg:#769ff0)'
